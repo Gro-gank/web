@@ -40,7 +40,7 @@
 						<h2 class="display-4">
 							<span class="mainblue">
 								<a href="../index.php">
-									ACT Học Viện CTF
+									 Học Viện ACT CTF
 								</a>
 							</span>
 							<!-- <br class="break">						
