@@ -1,2 +1,0 @@
-- k rành js
-- mấy cái js trong challenger k biết chạy sao 
