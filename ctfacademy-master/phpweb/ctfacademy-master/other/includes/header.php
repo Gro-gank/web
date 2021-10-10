@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-			<title>CTF Academy : About Us</title>
+			<title>ACT CTF Academy</title>
 			<meta name="description" content="Meet the members of the CTF Academy Team.">
 			
 			<meta name="author" content="CTF Academy">			
@@ -39,7 +39,7 @@
 						<h2 class="display-4">						
 						<span class = "mainblue">						
 						<a href="../index.php">						
-						CTF Academy
+						ACT Học Viện CTF
 						</a>						
 						</span>						
 						<!-- <br class="break">						
@@ -71,21 +71,21 @@
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../crypto/index.php">Cryptography</a>
+				<a class="nav-link" href="../crypto/index.php">Mật Mã Học</a>
 			</li>
 			
 			
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../osint/index.php">Open-Source Intel</a>
+				<a class="nav-link" href="../osint/index.php">Mã nguồn mở Intel</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../web/index.php">Web App Exploitation</a>
+				<a class="nav-link" href="../web/index.php">Khai thác ứng dụng web</a>
 			</li>
 
 			<li class="nav-item">
-				<a class="nav-link" href="../network/index.php">Network Forensics</a>
+				<a class="nav-link" href="../network/index.php">Pháp y mạng</a>
 			</li>								
 		</ul>
     </div>
@@ -103,18 +103,18 @@
 <div class="col-md-3 order-2 order-md-1" >
 
 <div class="list-group-flush myLightBox mb-4">
-  <div class="list-group-item contents" >Table of Contents</div>
-    <a href="about_us.php" class="list-group-item list-group-item-action">About Us</a>
-	<a href="contact_us.php" class="list-group-item list-group-item-action">Contact Us</a>
-	<a href="glossary.php" class="list-group-item list-group-item-action">Glossary</a>
-	<a href="quick_start.php" class="list-group-item list-group-item-action">Quick Start Guide</a>
+  <div class="list-group-item contents" >Danh mục</div>
+    <a href="about_us.php" class="list-group-item list-group-item-action">Về chúng tôi</a>
+	<a href="contact_us.php" class="list-group-item list-group-item-action">Liên hệ chúng tôi</a>
+	<a href="glossary.php" class="list-group-item list-group-item-action">Bảng chú giải</a>
+	<a href="quick_start.php" class="list-group-item list-group-item-action">Hướng dẫn nhanh</a>
 	
-	<a href="ethics.php" class="list-group-item list-group-item-action">Cybersecurity Ethics</a>
+	<a href="ethics.php" class="list-group-item list-group-item-action">Đạo đức an ninh mạng</a>
 	
-	<a href="enable_javascript.php" class="list-group-item list-group-item-action">Enable JavaScript</a>
-	<a href="privacy-policy.php" class="list-group-item list-group-item-action">Privacy Policy</a>
-	<a href="legal_disclaimer.php" class="list-group-item list-group-item-action">Legal Disclaimer</a>
-	<a href="terms-of-use.php" class="list-group-item list-group-item-action">Terms of Use</a>
+	<a href="enable_javascript.php" class="list-group-item list-group-item-action">Bật JavaScript</a>
+	<a href="privacy-policy.php" class="list-group-item list-group-item-action">Chính sách bảo mật</a>
+	<a href="legal_disclaimer.php" class="list-group-item list-group-item-action">Tuyên bố từ chối trách nhiệm pháp lý</a>
+	<a href="terms-of-use.php" class="list-group-item list-group-item-action">Điều khoản sử dụng</a>
 
 </div>
 

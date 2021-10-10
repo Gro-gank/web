@@ -6,13 +6,13 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.htm">Home</a></li>
+				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
 				  <li class="breadcrumb-item active">Terms of Use</li>
 				</ol>				
 
 
 <noscript>
-				Please enable JavaScript on your web browser. For a tutorial, <a href="enable_javascript.htm">click here</a>.				
+				Please enable JavaScript on your web browser. For a tutorial, <a href="enable_javascript.php">click here</a>.				
 				</noscript>
 
 <h3>Terms of Use</h3>

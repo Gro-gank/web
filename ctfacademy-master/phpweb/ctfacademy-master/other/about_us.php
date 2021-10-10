@@ -8,18 +8,18 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.htm">Home</a></li>
-				  <li class="breadcrumb-item active">About Us</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item active">Về chúng tôi</li>
 				</ol>				
 
 
 <noscript>
-				Please enable JavaScript on your web browser. For a tutorial, <a href="/enable_javascript.htm">click here</a>.				
+				Please enable JavaScript on your web browser. For a tutorial, <a href="/enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3>About Us</h3>
+<h3>Về chúng tôi</h3>
 <p>
-Meet the members of the CTF Academy Team.
+Gặp gỡ các thành viên của nhóm ACT CTF.
 </p>
 
 <p id="jacob">

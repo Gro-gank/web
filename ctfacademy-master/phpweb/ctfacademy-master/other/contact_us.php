@@ -5,20 +5,21 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.htm">Home</a></li>
+				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
 				  <li class="breadcrumb-item active">Contact Us</li>
 				</ol>				
 
 
 <noscript>
-				Please enable JavaScript on your web browser. For a tutorial, <a href="/enable_javascript.htm">click here</a>.				
+				Please enable JavaScript on your web browser. For a tutorial, <a href="/enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3>Contact Us</h3>
+<h3>Liên hệ chúng tôi</h3>
 
 <p>
-CTF Academy strives to provide users with a fun and educational experience. If you have any issues with CTFA or wish to report an error, please contact us at <a href="mailto:cybertrainingforceacademy@gmail.com" >		  
-		  cybertrainingforceacademy@gmail.com
+CTF Academy strives to provide users with a fun and educational experience. If you have any issues with CTFA or wish to report an error, please contact us at <a href="mailto:contact@actvn.edu.vn" >		  
+contact@actvn.edu.vn
+
 		  </a> or direct message us at any of the following social media platforms.
 
 
@@ -26,31 +27,27 @@ CTF Academy strives to provide users with a fun and educational experience. If y
 
 
 <ul>
-<li>  
+		<li>
+		  <!-- Twitter -->
+          <a href="www.actvn.edu.vn" target="_blank">
+            Mainpage
+          </a>
+		  </li>
+		<li>  
 		<!-- Facebook -->
-			<a href="https://www.facebook.com/CTF-Academy-2271850929563454" target="_blank">
+			<a href="https://www.facebook.com/hocvienkythuatmatma" target="_blank">
 		  Facebook
 		  </a>
-		  </li>
-		  
+		  </li>  
 		  <li>
-		  <!-- Twitter -->
-          <a href="https://twitter.com/CTFAcademy" target="_blank">
-            Twitter
-          </a>
-		  </li>
-		  
-		  <li>
-		  <!-- YouTube-->
-          <a href="https://www.youtube.com/channel/UC2YnTDWba8lqC-x77h8id8w" target="_blank">
-            YouTube
-          </a>
+		  <a href="https://goo.gl/maps/Abo5gx9huzVTvHv8A">Địa chỉ</a> <br>
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15676.54955041425!2d106.6572813!3d10.8007879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x286f2a16b253c64b!2zSOG7jWMgVmnhu4duIEvhu7kgVGh14bqtdCBN4bqtdCBNw6MgLSBNaeG7gW4gTmFtIChLTVAp!5e0!3m2!1svi!2s!4v1633870489457!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		  </li>
 </ul>
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

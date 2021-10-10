@@ -7,11 +7,11 @@
 	  <!-- Footer Column 1 -->
 	<div class="col-md-4 order-2 order-md-1 leftInfo">	
 	<div class="infoLinks">
-		<a href="contact_us.php" >Contact Us</a>
-		<a href="glossary.php" >Glossary</a>
+		<a href="contact_us.php" >Liên hệ chúng tôi</a>
+		<a href="glossary.php" >Bảng chú giải</a>
 		
-		<a href="quick_start.php" >Quick Start Guide</a>	
-		<a href="legal_disclaimer.php" >Legal Disclaimer</a>
+		<a href="quick_start.php" >Hướng dẫn nhanh</a>	
+		<a href="legal_disclaimer.php" >Đạo đức an ninh mạng</a>
 	</div>
 	</div>
   <!-- Footer Column 2 -->
@@ -39,10 +39,10 @@
 	  <!-- Footer Column 3 -->
 	  <div class="col-md-4 order-3 order-md-3 rightInfo">
 	<div class="infoLinks">
-<a href="about_us.php" >About Us</a> 
-  <a href="about_us.php#jacob">Jacob Corley</a>   
-	<a href="about_us.php#james">James Corley</a> 
-	<a href="about_us.php#john">John Reiman</a> 
+<a href="about_us.php" >Liên hệ chúng tôi</a> 
+  <a href="about_us.php#jacob">Cổ Ngọc Minh Huy</a>   
+	<a href="about_us.php#james">Phạm Đăng Thắg</a> 
+	<a href="about_us.php#john">Phạm Ngọc Luân</a> 
 	</div>	
 	</div>	
 	</div>	  
@@ -50,11 +50,11 @@
  
     <!-- Footer Links -->
     <div class="footer-copyright py-3">
-		&#169; 2019 Cyber Training Force Academy 		
+		&#169; 2021 Học Viện Đào Tạo Lực Lượng Không Gian Mạngs 		
 		<span class = "termsPolicy">
-		<a href="terms-of-use.php">Terms of Use</a> 		
+		<a href="terms-of-use.php">Điều khoản sử dụng</a> 		
 		|
-		<a href="privacy-policy.php">Privacy Policy</a>		
+		<a href="privacy-policy.php">Chính sách bảo mật</a>		
 		</span>
     </div>
   </footer>
