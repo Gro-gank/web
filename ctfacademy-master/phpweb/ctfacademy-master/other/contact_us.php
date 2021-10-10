@@ -28,9 +28,8 @@ contact@actvn.edu.vn
 
 <ul>
 		<li>
-		  <!-- Twitter -->
           <a href="www.actvn.edu.vn" target="_blank">
-            Mainpage
+            Trang chủ
           </a>
 		  </li>
 		<li>  
