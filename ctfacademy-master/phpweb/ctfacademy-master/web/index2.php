@@ -1,5 +1,8 @@
 <?php include 'includes/header.php';?>				
+<head>
+    <script src="./challenge2/flagValidate.js"></script>
 
+</head>
 
 <!-- Main content -->
 		<div class="col-md-9 order-1 order-md-2" >

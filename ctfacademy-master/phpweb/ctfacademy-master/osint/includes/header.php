@@ -11,13 +11,13 @@
 				<!--[if lt IE 9]>
 				<script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 				<![endif]-->
-                <link rel="stylesheet" href="../../src/font-awesome-4.7.0/css/font-awesome.min.css" />				
+				<link rel="stylesheet" href="../src/font-awesome-4.7.0/css/font-awesome.min.css" />				
 				<script src="../src/jquery-3.4.1.min.js"></script>
 				<script src="../src/popper.min.js"></script>				
 				<script src="../src/bootstrap/js/bootstrap.min.js"></script>		
 				<link href="../style.css" rel="stylesheet" />				
 				<script src="../src/jquery.md5.min.js"></script>
-				<script src="../src/hashCheck.js"></script>			
+				<script src="../src/hashCheck.js"></script>s	
 				
 
 				<link rel="icon" href="../src/HVKTMM.ico" />
@@ -120,8 +120,8 @@
 <div class="list-group-flush myLightBox mb-3">
 
   <div class="list-group-item contents" >Challenges</div>
-  <a href="challenge1/index.php" class="list-group-item list-group-item-action">Challenge 1</a>
-  <a href="challenge2/index.php" class="list-group-item list-group-item-action">Challenge 2</a>
+  <a href="index1.php" class="list-group-item list-group-item-action">Challenge 1</a>
+  <a href="index2.php" class="list-group-item list-group-item-action">Challenge 2</a>
 
 </div>
 

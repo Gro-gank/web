@@ -16,7 +16,8 @@
 				<script src="../src/popper.min.js"></script>				
 				<script src="../src/bootstrap/js/bootstrap.min.js"></script>		
 				<link href="../style.css" rel="stylesheet" />				
-				<script src="../src/hashCheck.js"></script>					
+				<script src="../src/jquery.md5.min.js"></script>
+				<script src="../src/hashCheck.js"></script>				
 				<link rel="icon" href="../src/HVKTMM.ico" />
 		</head>				
 				

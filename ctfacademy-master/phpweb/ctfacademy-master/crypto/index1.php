@@ -1,3 +1,7 @@
+<head>
+    <script src="./challenge1/flagValidate.js"></script>
+
+</head>
 <?php include 'includes/header.php';?>
 
 
