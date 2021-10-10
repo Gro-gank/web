@@ -50,7 +50,7 @@
  
     <!-- Footer Links -->
     <div class="footer-copyright py-3">
-		&#169; 2021 Học Viện Đào Tạo Lực Lượng Không Gian Mạngs 		
+		&#169; 2021 Học Viện Đào Tạo Lực Lượng Không Gian Mạng	 		
 		<span class = "termsPolicy">
 		<a href="terms-of-use.php">Điều khoản sử dụng</a> 		
 		|
