@@ -40,7 +40,7 @@
 						<h2 class="display-4">
 							<span class="mainblue">
 								<a href="../index.php">
-									 Học Viện ACT CTF
+									ACT CTF Academys
 								</a>
 							</span>
 							<!-- <br class="break">						

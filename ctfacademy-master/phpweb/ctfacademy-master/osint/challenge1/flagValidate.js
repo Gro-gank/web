@@ -188,7 +188,7 @@ function myFlag (){
 	if (flagCheck == true) {
 		
 		
-		$("#flagFeedback").html("Good job! <a href='answer.htm'>Click here for the explaination.</a>");
+		$("#flagFeedback").html("Good job! <a href='answer1.php'>Click here for the explaination.</a>");
 		
 		$("#flagFeedback").css("color", "#28a745");
 		
