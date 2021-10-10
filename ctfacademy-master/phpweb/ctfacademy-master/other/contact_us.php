@@ -28,7 +28,7 @@ contact@actvn.edu.vn
 
 <ul>
 		<li>
-          <a href="www.actvn.edu.vn" target="_blank">
+          <a href="http://actvn.edu.vn" target="_blank">
             Trang chủ
           </a>
 		  </li>
