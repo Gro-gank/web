@@ -24,7 +24,7 @@ We intercepted a file containing a secret flag, but we can’t seem to open the 
 </p>
 
 <p>
-<a href="forensics_challenge.pdf"  target="_blank">
+<a href="challenge2/forensics_challenge.pdf"  target="_blank">
 Click here to access the file: forensics_challenge.pdf
 </a>
 </p>

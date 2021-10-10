@@ -24,7 +24,7 @@ We intercepted a secret message, but it seems to be encoded using a cipher. See 
 
 
 <p>
-<b>Hint:</b> Don't forget to use <a href="../cyberchef.php" target="_blank">CyberChef</a>.
+<b>Hint:</b> Don't forget to use <a href="../crypto/cyberchef.php" target="_blank">CyberChef</a>.
 </p>
 
 

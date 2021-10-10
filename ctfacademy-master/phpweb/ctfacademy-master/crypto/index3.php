@@ -23,7 +23,7 @@ There is a flag hidden somewhere in this file. See if you can find it!
 </p>
 
 <p>
-<a href="Stego_1.png" target="_blank">Right-click here and select "Save as" to save this image so you can find the flag.</a>
+<a href="challenge3/Stego_1.png" target="_blank">Right-click here and select "Save as" to save this image so you can find the flag.</a>
 </p>
 
 
