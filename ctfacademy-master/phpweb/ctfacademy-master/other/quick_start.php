@@ -92,7 +92,7 @@ Cảm ơn bạn đã lựa chọn Học viện ACT CTF. Nếu bạn có thắc m
 
 <ul>
 <li>
-          <a href="www.actvn.edu.vn" target="_blank">
+          <a href="http://actvn.edu.vn" target="_blank">
             Trang chủ
           </a>
 		  </li>
