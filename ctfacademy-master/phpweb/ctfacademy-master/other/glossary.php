@@ -15,49 +15,46 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3 class="mb-3">Glossary</h3>
+<h3 class="mb-3">Bảng chú giải</h3>
 
-<h5>Client-side Processing</h5>
+<h5>Xử lý phía khách hàng</h5>
 <p id= "clientside" >
-Client-side processing indicates that the action happening is on the user’s (otherwise known as the client) computer. For example, a person’s web browser (like Chrome) is on the client-side but the website is not.
-<a href="https://skillcrush.com/2012/07/30/client-side-vs-server-side/" target="_blank">
+Xử lý phía máy khách chỉ ra rằng hành động đang diễn ra trên máy tính của người dùng (hay còn gọi là máy khách). Ví dụ: trình duyệt web của một người (như Chrome) ở phía máy khách nhưng trang web thì không.<a href="https://skillcrush.com/2012/07/30/client-side-vs-server-side/" target="_blank">
 <sup>[1] </sup>
           </a>
 </p>
 
 
-<h5>Malicious User</h5>
+<h5>Người dùng độc hại</h5>
 <p id= "malicious">
-Malicious user is a user that intends to do harm. Usually this is a “trusted” user such as an employee, contractor, or intern. A malicious attacker would compromise malicious users and hackers. Definitions may vary on who is included as a “user” however the constant is that the person intends to do harm.
+Người dùng độc hại là người dùng có ý định gây hại. Thông thường đây là người dùng “thân cận” như nhân viên, nhà thầu hoặc thực tập sinh. Kẻ tấn công độc hại sẽ làm tổn hại đến người dùng độc hại và tin tặc. Các định nghĩa có thể khác nhau về người được bao gồm với tư cách là “người dùng”, tuy nhiên điều đó không thay đổi là người đó có ý định gây hại. 
 <a href="https://www.dummies.com/programming/networking/what-is-a-malicious-user/" target="_blank">
 <sup>[2] </sup>
           </a>
 </p>
 
 
-<h5>Penetration Test</h5>
+<h5>Kiểm tra sự xâm nhập</h5>
 <p id= "penetrationtest">
 
-Penetration test is a simulated cyber-attack against one’s network to identify vulnerabilities and then correct the vulnerability to harden the network/system. These tests can be performed by internal IT staff or contracted out to a company that specializes in these tests.
+Kiểm tra thâm nhập là một cuộc tấn công mạng mô phỏng chống lại mạng của một người để xác định các lỗ hổng và sau đó sửa chữa lỗ hổng để làm cứng mạng / hệ thống. Các bài kiểm tra này có thể được thực hiện bởi nhân viên CNTT nội bộ hoặc ký hợp đồng với một công ty chuyên về các bài kiểm tra này. 
 <a href="https://www.imperva.com/learn/application-security/penetration-testing/
 " target="_blank">
 <sup>[3]</sup>
           </a>
 </p>
 
-<h5>Plaintext</h5>
+<h5>Văn bản thô</h5>
 <p id= "plaintext">
-Plaintext refers to a word or words that are plain English. Plaintext is the message that is to be encrypted or the one that is revealed by decrypted an encrypted message.
-<a href="https://searchsecurity.techtarget.com/definition/plaintext
+Plaintext đề cập đến một từ hoặc các từ là tiếng Anh thuần túy. Bản rõ là thông điệp được mã hóa hoặc là thông báo được tiết lộ bằng cách giải mã một thông điệp được mã hóa. <a href="https://searchsecurity.techtarget.com/definition/plaintext
 " target="_blank">
 <sup>[4]</sup>
           </a>
 </p>
 
-<h5>Sanitize</h5>
+<h5>Vệ sinh</h5>
 <p id= "sanitize">
-Sanitize may have multiple meanings such as sanitize a hard drive is eliminating data on it. In the context of the lesson, to sanitize means the data conforms to security-related requirements regarding the leaking or exposure of sensitive data or elimination of unwanted characters from the input by means of removing, replacing, encoding, or escaping the characters.
-<a href="https://wiki.sei.cmu.edu/confluence/display/java/Input+Validation+and+Data+Sanitization
+Vệ sinh có thể có nhiều nghĩa, chẳng hạn như vệ sinh ổ cứng là loại bỏ dữ liệu trên đó. Trong ngữ cảnh của bài học, sanitize có nghĩa là dữ liệu tuân thủ các yêu cầu liên quan đến bảo mật liên quan đến việc rò rỉ hoặc lộ dữ liệu nhạy cảm hoặc loại bỏ các ký tự không mong muốn khỏi đầu vào bằng cách xóa, thay thế, mã hóa hoặc thoát các ký tự.<a href="https://wiki.sei.cmu.edu/confluence/display/java/Input+Validation+and+Data+Sanitization
 " target="_blank">
 <sup>[5]</sup>
           </a>
@@ -65,9 +62,9 @@ Sanitize may have multiple meanings such as sanitize a hard drive is eliminating
 
 
 
-<h5>Syntax</h5>
+<h5>Cú pháp</h5>
 <p id= "syntax">
-Syntax are commands or words that when grouped together, in a correct order, form an request for a program to do something such as ‘GO to your seat and SIT down’. GO and SIT are like syntax commands that tell something to do something.
+Cú pháp là các lệnh hoặc từ mà khi được nhóm lại với nhau, theo đúng thứ tự, sẽ tạo thành một yêu cầu chương trình thực hiện một điều gì đó chẳng hạn như 'ĐI đến chỗ ngồi của bạn và SIT down'. GO và SIT giống như các lệnh cú pháp cho biết điều gì đó phải làm điều gì đó. 
 <a href="https://www.techopedia.com/definition/3959/syntax" target="_blank">
 <sup>[6]</sup>
           </a>
@@ -75,8 +72,8 @@ Syntax are commands or words that when grouped together, in a correct order, for
 
 
 
-			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<div id="backToTop" class="my-3">
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

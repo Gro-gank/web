@@ -4,7 +4,7 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item active">Home</li>
+				  <li class="breadcrumb-item active">Trang chủ</li>
 				  
 				</ol>				
 
@@ -13,9 +13,7 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="other/enable_javascript.php">click here</a>.				
 				</noscript>
 
-<p>
-Welcome to Cyber Training Force Academy (CTFA). CTFA is an elite training platform for tomorrow’s cyber-defenders. Through the course of four modules, you will learn some of the basics of the cybersecurity world. In module 1, we dive into the realm of cryptography and learn about ciphers, file forensics, and steganography. For module 2, we will study the investigative tactics of open-source intelligence. Module 3 introduces the world of web application exploitation as we explore the many ways that web security can be breached. Finally, in module 4, we will swim in the waters of network forensics as we learn to analyze network traffic using Wireshark. 
-</p>
+<p>Chào mừng bạn đến với Học viện Đào tạo Lực lượng Không gian mạng ACT (ACT-CTFA). ACT-CTFA là một nền tảng đào tạo ưu tú cho những người bảo vệ mạng của tương lai. Thông qua khóa học gồm bốn mô-đun, bạn sẽ tìm hiểu một số kiến ​​thức cơ bản về thế giới an ninh mạng. Trong mô-đun 1, chúng ta đi sâu vào lĩnh vực <a href="crypto">Mật mã</a> và tìm hiểu về mật mã, pháp y tệp và mật mã. Đối với mô-đun 2, chúng ta sẽ nghiên cứu các chiến thuật điều tra của <a href="osint">Trí thông minh mã nguồn mở</a>. Mô-đun 3 giới thiệu thế giới <a href="web">Khai thác ứng dụng Web</a> khi chúng ta khám phá nhiều cách mà bảo mật web có thể bị vi phạm. Cuối cùng, trong mô-đun 4, chúng ta sẽ bơi trong vùng nước của <a href="network">Pháp y mạng</a> khi chúng ta học cách phân tích lưu lượng mạng bằng Wireshark.</p>
 
 
 	<!-- <div class="myVideo my-3">
@@ -46,23 +44,17 @@ Welcome to Cyber Training Force Academy (CTFA). CTFA is an elite training platfo
 	
 	
 
-<p>
-Our mission at CTF Academy is to help you learn about cybersecurity through an immersive and entertaining course. We hope this curriculum will give you an understanding of a few cybersecurity fundamentals and spark a passion for cybersecurity. The world needs more cyber-defenders, and after this course, we hope you will answer the call to defend the world from cyber-threats. 
-</p>
+<p>Nhiệm vụ của chúng tôi tại Học viện ACT CTF là giúp bạn tìm hiểu về an ninh mạng thông qua một khóa học thú vị và hấp dẫn. Chúng tôi hy vọng chương trình học này sẽ cung cấp cho bạn sự hiểu biết về một số nguyên tắc cơ bản về an ninh mạng và khơi dậy niềm đam mê trong bạn đối với an ninh mạng. Thế giới cần nhiều người bảo vệ mạng hơn và sau khóa học này, chúng tôi hy vọng bạn sẽ phản hồi lời kêu gọi bảo vệ thế giới khỏi các mối đe dọa liên quan đến mạng.</p>
 
-<p>
-CTFA draws inspiration for its challenge-based learning exercises from cyber capture-the-flag (CTF) competitions. A cyber CTF is a competition where competitors are challenged with finding flags in files or computer systems. In a cyber-CTF, a flag is represented by a string of text, usually including a prefix and curly brackets ({ }). CTFA’s flags will always have the prefix “ctfa” followed by text contained in curly brackets, like so “ctfa{example_flag}”. In this curriculum, we have adapted the cyber-CTF concept to provide you with an interactive learning experience. At the end of each module, there will be a few CTF-style challenges that relate to the concepts presented in the preceding lesson; along with write-ups explaining how to solve the challenges. These challenges are designed to engage students in hands-on learning and allow them to explore the creative ways each challenge can be solved. 
-</p>
+<p>CTFA lấy cảm hứng cho các bài tập học tập dựa trên thử thách từ các cuộc thi bắt cờ trên mạng (CTF). CTF không gian mạng là một cuộc thi mà các đối thủ được thử thách bằng cách tìm cờ trong tệp hoặc hệ thống máy tính. Trong CTF mạng, cờ được biểu thị bằng một chuỗi văn bản, thường bao gồm tiền tố và dấu ngoặc nhọn ({}). Các cờ của CTFA sẽ luôn có tiền tố “ctfa” theo sau là văn bản nằm trong dấu ngoặc nhọn, giống như “ctfa {example_flag}”. Trong chương trình giảng dạy này, chúng tôi đã điều chỉnh khái niệm CTF không gian mạng để cung cấp cho bạn trải nghiệm học tập tương tác. Vào cuối mỗi mô-đun, sẽ có một vài thử thách kiểu CTF liên quan đến các khái niệm được trình bày trong bài học trước; cùng với các bài viết giải thích cách giải quyết các thách thức.</p>
 
-<p>
-To demonstrate how answers and flags are submitted, below is an example flag input bow. Try it out by entering the following flag: ctfa{example_flag}
-</p>
+<p>Để chứng minh cách gửi câu trả lời và cờ, dưới đây là ví dụ về cung đầu vào cờ. Hãy dùng thử bằng cách nhập cờ sau: ctfa {example_flag}</p>
 
 <!-- Flag input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Input Flag</p>	
+    <p class="h4">Nhập cờ</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -71,32 +63,30 @@ To demonstrate how answers and flags are submitted, below is an example flag inp
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Submit</button>
+    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Gửi</button>
 
     </div>
 </form>
 </div>
 <!-- Flag form End -->
 
-<p>
-If you enter the flag correctly, you should see a completion message, like in the example form below. This is how you will know if you submitted the correct answer as you complete the challenges. 
-</p>
+<p>Nếu bạn nhập đúng cờ, bạn sẽ thấy thông báo hoàn thành, như trong biểu mẫu ví dụ bên dưới. Đây là cách bạn sẽ biết nếu bạn đã gửi câu trả lời chính xác khi bạn hoàn thành các thử thách.</p>
 
 
 <!-- Q1 input form -->
 <div class = "mySignInBox myLightBox my-4 exampleForm">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Input Flag</p>	
+    <p class="h4">Nhập cờ</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
     <input type="text" class="form-control" value="ctfa{example_flag}">	
-	<span>Good job!</span>
+	<span>Tốt lắm!</span>
 	</div>
 	
     <!-- Submit button -->
-    <button class="btn btn-mybutton btn-block mb-2" type="button">Submit</button>
+    <button class="btn btn-mybutton btn-block mb-2" type="button">Gửi</button>
 
     </div>
 </form>
@@ -104,44 +94,44 @@ If you enter the flag correctly, you should see a completion message, like in th
 <!-- Flag form End -->
 
 <p>
-CTFA is designed to run entirely on your local computer system with no internet connection. The curriculum uses local webpage technologies to create an interactive learning experience. If you want to use CTF Academy in an offline environment, <a href="https://github.com/ctfacademy/ctfacademy.github.io/archive/ctfacademy.zip">right-click to download the CTF Academy zip file</a> or <a href="https://github.com/ctfacademy/ctfacademy.github.io" target="_blank">click here to go to the GitHub page</a>.
+CTFA được thiết kế để chạy hoàn toàn trên hệ thống máy tính cục bộ của bạn mà không cần kết nối internet. Chương trình giảng dạy sử dụng các công nghệ trang web địa phương để tạo ra trải nghiệm học tập tương tác. Nếu bạn muốn sử dụng Học viện CTF trong môi trường ngoại tuyến, <a href="https://github.com/ctfacademy/ctfacademy.github.io/archive/ctfacademy.zip">hãy nhấp chuột phải để tải xuống tệp zip Học viện ACT CTF</a> hoặc <a href="https://github.com/ctfacademy/ctfacademy.github.io" target="_blank">nhấp vào đây để truy cập trang GitHub</a>.
 </p>
 
 <p>
-For a guide on how to unzip the file and get started <a href="other/quick_start.php">click here</a>.
+Để có hướng dẫn về cách giải nén tệp và bắt đầu, <a href="other/quick_start.php">hãy nhấp vào đây</a>.
 </p>
 
 <p>
-By using and/or downloading Cyber Training Force Academy, you are agreeing to the terms and conditions found <a href="other/terms-of-use.php">here</a>. Also, cybersecurity ethics is crucial when learning cybersecurity techniques, <a href="other/ethics.php">so please click here to read about cybersecurity ethics</a>.
+Bằng cách sử dụng và / hoặc tải xuống Cyber ​​Training Force Academy, bạn đồng ý với các điều khoản và điều kiện <a href="other/terms-of-use.php">tại đây</a>. Ngoài ra, đạo đức an ninh mạng rất quan trọng khi học các kỹ thuật an ninh mạng, <a href="other/ethics.php">vì vậy vui lòng nhấp vào đây để đọc về đạo đức an ninh mạng.</a>.
 </p>
 
 <p>
-Thank you for joining CTF Academy!
+Cảm ơn bạn đã tham gia CTF Academy	!
 </p>
 
 <p>
-<a href="crypto/index.php">Click here to get started with the first lesson.</a>
+<a href="crypto/index.php">Bấm vào đây để bắt đầu bài học đầu tiên.</a>
 </p>
 
 
 <p>
-Why you should choose a career in cybersecurity.
+Tại sao bạn nên chọn một nghề nghiệp trong an ninh mạng.
 </p>
 
 
 
-	<div class="myVideo my-3">
+	<!-- <div class="myVideo my-3">
 <div class="embed-responsive embed-responsive-16by9">
     <video  class="embed-responsive-item" controls>
         <source src="Why_Choose_cyber.mp4" type="video/mp4">
-		Your browser does not support the video tag.
+		Trình duyệt của bạn không hỗ trợ thẻ Video
     </video>
 </div>
-</div>
+</div> -->
 
 
 
-<!--
+
 
 <div class="container my-3">
 	<div class="embed-responsive embed-responsive-16by9">
@@ -153,12 +143,12 @@ Why you should choose a career in cybersecurity.
 
 
 	
-	-->
+	
 
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 
