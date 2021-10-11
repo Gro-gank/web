@@ -8,8 +8,8 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item active">Enable JavaScript Tutorial</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item active">Bật JavaScript</li>
 				</ol>				
 
 
@@ -17,21 +17,20 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3>Enable JavaScript Tutorial</h3>
+<h3>Bật JavaScript</h3>
 <p>
-JavaScript is a scripting program language used in CTFA challenges. It must be enabled to ensure functionality of the challenges. Failure to enable JavaScript may cause web content to be limited or unavailable. The following guide will help users enable JavaScript in the browsers CTFA supports.
-</p>
+JavaScript là một ngôn ngữ lập trình được sử dụng trong các thử thách của CTFA. JavaScript phải được kích hoạt để đảm bảo chức năng của các thử thách. Việc không bật JavaScript có thể khiến nội dung web bị mất hoặc hạn chế. Hướng dẫn sau đây sẽ giúp người dùng kích hoạt JavaScript trong các trình duyệt mà CTFA hỗ trợ.</p>
 
 <h3>
 Chrome:
 </h3>
 
 <ol>
-<li>On Chrome web browser window, click on the three dots on the top right of the screen</li>
-<li>Select settings from the drop-down menu</li>
-<li>At the bottom of the page click on Advanced</li>
-<li>Expand Site Settings by clicking the right arrow to the right of ‘Site Settings’</li>
-<li>Ensure JavaScript says Allowed. If not click and change to allowed</li>
+<li>Trên cửa sổ trình duyệt Chrome, nhấp vào dấu ba chấm ở trên cùng bên phải màn hình</li>
+<li>Chọn Setting</li>
+<li>Ở cuối trang, nhấp vào Advanced</li>
+<li>Mở rộng Cài đặt Trang bằng cách nhấp vào mũi tên chỉ phải ở bên phải của ‘Site Setting'</li>
+<li>Đảm bảo JavaScript hiển thị là Allowed. Nếu không, hãy nhấp vào và thay đổi thành Allowed </li>
 </ol>
 
 <div class="screenshot myLightBox my-3">
@@ -52,12 +51,12 @@ Opera:
 </h3>
 
 <ol>
-<li>Click Opera icon on top left of Opera web browser</li>
-<li>Select settings from the drop-down menu</li>
-<li>Click on Advanced</li>
-<li>Select Privacy and security</li>
-<li>Select content settings</li>
-<li>Ensure JavaScript says Allowed. If not click and change to allowed</li>
+<li>Nhấp vào biểu tượng Opera ở trên cùng bên trái của trình duyệt web Opera</li>
+<li>Chọn setting </li>
+<li>Nhấp và<object data="" type=""></object> Advanced</li>
+<li>Chọn Privacy and security</li>
+<li>Chọn content settings</li>
+<li>Đảm bảo JavaScript hiển thị là Allowed. Nếu không, hãy nhấp vào và thay đổi thành Allowed </li>
 </ol>
 
 <div class="screenshot myLightBox my-3">
@@ -69,10 +68,10 @@ Firefox:
 </h3>
 
 <ol>
-<li>Open Firefox web browser and type about:config in the address bar</li>
-<li>Click accept the risk</li>
-<li>Type javascript.enabled in the search box</li>
-<li>Ensure that the value column is true. If it isn’t, change to true by double clicking false and change value to true</li>
+<li>Mở trình duyệt web Firefox và nhập about:config vào thanh địa chỉ</li>
+<li>Bấm chấp nhận rủi ro</li>
+<li>Nhập javascript.enabled vào hộp tìm kiếm</li>
+<li>Đảm bảo rằng cột giá trị là true. Nếu không, hãy thay đổi thành true bằng cách nhấp đúp vào false và thay đổi giá trị thành true.</li>
 </ol>
 
 <div class="screenshot myLightBox my-3">
@@ -85,8 +84,7 @@ Edge:
 </h3>
 
 <p>
-Microsoft Edge Home and Starter Editions are preconfigured to allow JavaScript and cannot be changed.
-</p>
+Microsoft Edge Home và Starter Editions được cấu hình sẵn để cho phép JavaScript và không thể thay đổi.</p>
 
 
 <h3>
@@ -94,10 +92,10 @@ Internet Explorer:
 </h3>
 
 <ol>
-<li>Click setting icon on top right of Internet Explorer (IE) web page</li>
-<li>Select Internet Options from pop-up window</li>
-<li>Go to Security tab then click custom level</li>
-<li>Scroll to scripting and ensure active scripting is enabled and if not click enabled then ok</li>
+<li>Nhấp vào biểu tượng cài đặt ở trên cùng bên phải của trang web Internet Explorer (IE)</li>
+<li>Chọn Internet Options từ cửa sổ bật lên</li>
+<li>Chuyển đến tab Security sau đó nhấp vào Custom level</li>
+<li>Cuộn đến Scripting và đảm bảo Scripting được chọn Enable, nếu không, nhấp vào Enable rồi bấm OK</li>
 </ol>
 
 <div class="screenshot myLightBox my-3">

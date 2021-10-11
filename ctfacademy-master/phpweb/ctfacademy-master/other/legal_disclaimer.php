@@ -8,8 +8,8 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item active">Legal Disclaimer</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item active">Tuyên bố từ chối trách nhiệm pháp lý</li>
 				</ol>				
 
 
@@ -17,19 +17,17 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3>Legal Use</h3>
+<h3>Trách nhiệm pháp lý</h3>
 <p>
-The CTFA Training Program is designed to provide young students with an introduction to Cybersecurity. The Cybersecurity career field is a fast-growing field and a greater number of professionals will be needed to combat future cyber threats. To accomplish this goal, it is necessary to introduce the student to various skills that, if used inappropriately, can result in violation of laws. The sole purpose for the training is to generate interest in protecting from cyber threats, not becoming one. 
-</p>
+Chương trình Đào tạo CTFA được thiết kế để cung cấp cho các sinh viên trẻ một sự giới thiệu về An ninh mạng. Lĩnh vực nghề nghiệp An ninh mạng là một lĩnh vực đang phát triển nhanh chóng và sẽ cần một số lượng lớn hơn các chuyên gia để chống lại các mối đe dọa mạng trong tương lai. Để đạt được mục tiêu này, cần phải giới thiệu cho sinh viên những kỹ năng khác nhau, mà nếu sử dụng không phù hợp, có thể dẫn đến vi phạm pháp luật. Mục đích duy nhất của khóa đào tạo là kích tạo mối quan tâm đến việc bảo vệ hệ thống khỏi các mối đe dọa mạng, chứ không phải nhằm tạo ra các mối đe dọa mạng.</p>
 
 <p>
-CTFA personnel cannot be responsible for the inappropriate or illegal actions of any students that learn techniques from this training program that elect to use these skills to commit crimes or otherwise harm persons or organizations. Great care is made to ensure students understand the impact of using the skills learned in an improper manner; however, CTFA cannot be liable for the actions of these individuals as CTFA does not condone illegal actions of any kind.
-</p>
+Nhân viên CTFA không thể chịu trách nhiệm về các hành động không phù hợp hoặc bất hợp pháp của bất kỳ học viên nào học các kỹ thuật từ chương trình đào tạo này chọn sử dụng các kỹ năng này để phạm tội hoặc gây hại cho cá nhân hoặc tổ chức. Chúng tôi đã hết sức lưu ý để đảm bảo học sinh hiểu được tác động của việc sử dụng các kỹ năng đã học một cách sai trái; tuy nhiên, CTFA không thể chịu trách nhiệm đối với các hành động của những cá nhân này vì CTFA không dung túng các hành động bất hợp pháp dưới bất kỳ hình thức nào. </p>
 
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

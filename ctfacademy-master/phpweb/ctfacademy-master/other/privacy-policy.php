@@ -6,7 +6,7 @@
 				
 				<ol class="breadcrumb">
 				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item active">Privacy Policy</li>
+				  <li class="breadcrumb-item active">Chính sách bảo mật</li>
 				</ol>				
 
 
@@ -14,60 +14,53 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3>Privacy Policy</h3>
+<h3>Chính sách bảo mật</h3>
 <p>
-This notice discloses the privacy practices of the CTF Academy (CTFA) Cybersecurity Training Program. This privacy notice applies only to information collected by this website and will notify you of the following:
-</p>
+Thông báo này tiết lộ các hành động liên quan đến quyền riêng tư của Chương trình Đào tạo An ninh mạng của Học viện ACT CTF (ACT-CTFA). Thông báo bảo mật này chỉ áp dụng cho thông tin được thu thập bởi trang web này và sẽ thông báo cho bạn những điều sau:</p>
 
 <ol>
-<li>What PII (personally identifiable information) is collected from you through our website</li>
-<li>How PII is used and with whom it is shared</li>
-<li>What choices are available to you regarding the use of your data</li>
-<li>The security procedures in place to protect you from misuse of your information</li>
-<li>How you can correct inaccurate information</li>
+<li>PII (thông tin nhận dạng cá nhân) nào được thu thập từ bạn thông qua trang web của chúng tôi</li>
+<li>PII được sử dụng như thế nào và nó được chia sẻ với ai</li>
+<li>Bạn có những lựa chọn nào về việc chúng tôi sử dụng thông tin của bạn</li>
+<li>Các quy trình bảo mật được áp dụng để bảo vệ bạn khỏi việc thông tin của bạn bị sử dụng sai mục đích</li>
+<li>Làm thế nào bạn có thể sửa thông tin không chính xác</li>
 </ol>
 
-<h5 class="text-center">Information Collection, Use, and Sharing</h5>
+<h5 class="text-center">Thu thập, sử dụng và chia sẻ thông tin</h5>
 <p>
-CTFA is the sole owner of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
-</p>
+ACT-CTFA là chủ sở hữu duy nhất của thông tin được thu thập trên trang web này. Chúng tôi chỉ có quyền truy cập / thu thập thông tin mà bạn tự nguyện cung cấp cho chúng tôi qua email hoặc khi liên hệ trực tiếp với bạn. Chúng tôi sẽ không bán hoặc cho thuê thông tin này cho bất kỳ ai.</p>
 
 <p>
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to communicate with the student’s teacher.
-</p>
+Chúng tôi sẽ sử dụng thông tin của bạn để đưa câu trả lời cho bạn khi bạn liên hệ với chúng tôi. Chúng tôi sẽ không chia sẻ thông tin của bạn với bất kỳ bên thứ ba nào bên ngoài tổ chức, ngoài những trường hợp cần thiết để đáp ứng yêu cầu của bạn, ví dụ: để giao tiếp với giáo viên của học sinh.</p>
 
 <p>
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
-</p>
+Trừ khi được bạn yêu cầu không làm vậy, chúng tôi có thể liên hệ với bạn qua email trong tương lai để cho bạn biết về các sản phẩm đặc biệt, sản phẩm hoặc dịch vụ mới hoặc các thay đổi đối với chính sách bảo mật này.</p>
 
-<h5 class="text-center">Your Access to and Control Over Information</h5>
+<h5 class="text-center">Quyền truy cập và kiểm soát thông tin của bạn</h5>
 
 <p>
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
-</p>
+Bạn có thể chọn không nhận bất kỳ địa chỉ liên hệ nào từ chúng tôi trong tương lai  bất kỳ lúc nào. Bạn có thể thực hiện những việc sau bất cứ lúc nào bằng cách liên hệ với chúng tôi qua địa chỉ email hoặc số điện thoại mà bạn cung cấp trên trang web của chúng tôi:</p>
 
 <ul>
-<li>See what data we have about you, if any</li>
-<li>Change/correct any data we have about you</li>
-<li>Have us delete any data we have about you</li>
-<li>Express any concern you have about our use of your data</li>
+<li>Xem những dữ liệu mà chúng tôi có về bạn, nếu có</li>
+<li>Thay đổi / chỉnh sửa bất kỳ dữ liệu nào chúng tôi có về bạn</li>
+<li>Yêu cầu chúng tôi xóa bất kỳ dữ liệu nào chúng tôi có về bạn</li>
+<li>Bày tỏ mối quan tâm của bạn về việc chúng tôi sử dụng dữ liệu của bạn</li>
 </ul>
 
-<h5 class="text-center">Security</h5>
+<h5 class="text-center">Bảo mật</h5>
 <p>
-We take protection of your information very seriously. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information, that information is transmitted in a secure way. You can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the Web page.
-</p>
+Chúng tôi rất coi trọng việc bảo vệ thông tin của bạn. Khi bạn gửi thông tin nhạy cảm qua trang web, thông tin của bạn được bảo vệ cả trực tuyến và ngoại tuyến. Bất cứ nơi nào chúng tôi thu thập thông tin nhạy cảm, thông tin đó sẽ được truyền đi một cách an toàn. Bạn có thể xác minh điều này bằng cách tìm biểu tượng ổ khóa trên thanh địa chỉ và tìm "https" ở đầu địa chỉ của trang Web. </p>
 
 <p>
-Only CTFA personnel who need the information to perform a specific job are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
-</p>
+Chỉ những nhân sự CTFA cần thông tin để thực hiện một công việc cụ thể mới được cấp quyền truy cập vào thông tin nhận dạng cá nhân. Các máy tính / máy chủ mà chúng tôi lưu trữ thông tin nhận dạng cá nhân được giữ trong một môi trường an toàn.</p>
 <p class="font-weight-bold">
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 706-601-2848 or <a href="mailto:cybertrainingforceacademy@gmail.com" target="_blank">cybertrainingforceacademy@gmail.com</a>.
+Nếu bạn cảm thấy rằng chúng tôi không tuân thủ chính sách bảo mật này, bạn nên liên hệ ngay với chúng tôi qua số điện thoại 000-000-000 hoặc  <a href="mailto:contact@actvn.edu.vn" target="_blank">contact@actvn.edu.vn</a>.
 </p>
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

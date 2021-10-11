@@ -11,7 +11,7 @@
 		<a href="glossary.php" >Bảng chú giải</a>
 		
 		<a href="quick_start.php" >Hướng dẫn nhanh</a>	
-		<a href="legal_disclaimer.php" >Đạo đức an ninh mạng</a>
+		<a href="legal_disclaimer.php" >Tuyên bố từ chối trách nhiệm pháp lý</a>
 	</div>
 	</div>
   <!-- Footer Column 2 -->
@@ -39,9 +39,9 @@
 	  <!-- Footer Column 3 -->
 	  <div class="col-md-4 order-3 order-md-3 rightInfo">
 	<div class="infoLinks">
-<a href="about_us.php" >Liên hệ chúng tôi</a> 
+<a href="about_us.php" >Về chúng tôi</a> 
   <a href="about_us.php#jacob">Cổ Ngọc Minh Huy</a>   
-	<a href="about_us.php#james">Phạm Đăng Thắg</a> 
+	<a href="about_us.php#james">Phạm Đăng Thắng</a> 
 	<a href="about_us.php#john">Phạm Ngọc Luân</a> 
 	</div>	
 	</div>	
