@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-			<title>CTF Academy : Cryptography</title>
+			<title>ACT CTF Academy : Mật Mã Học</title>
 			<meta name="description" content="In this lesson we will cover a few cryptographic concepts along with the related fields of digital forensics and steganography. Cryptography is the process of encoding or decoding messages and data. In this lesson we will learn about cryptography in three broad sections, ciphers, encryption, and hashing. Although cryptography is widely used in computer systems today, mostly in the form of encryption and hashes, some cryptographic techniques have been in use since the days of Julius Caesar and the Roman Empire.">
 			
 			<meta name="author" content="CTF Academy">			
@@ -41,7 +41,7 @@
 						<h2 class="display-4">						
 						<span class = "mainblue">						
 						<a href="../index.php">						
-						CTF Academy
+						ACT CTF Academy
 						</a>						
 						</span>						
 						<br class="break">						
@@ -50,7 +50,7 @@
 						</span>						
 						<span class = "mainorange"> 
 						<a href="index.php">
-						Cryptography
+						Mật Mã Học
 						</a>
 						</span>						
 						</h2>
@@ -73,21 +73,21 @@
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../crypto/index.php">Cryptography</a>
+				<a class="nav-link" href="../crypto/index.php">Mật Mã Học</a>
 			</li>
 			
 			
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../osint/index.php">Open-Source Intel</a>
+				<a class="nav-link" href="../osint/index.php">Trí Tuệ Mã Nguồn Mở</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../web/index.php">Web App Exploitation</a>
+				<a class="nav-link" href="../web/index.php">Khai Thác Ứng Dụng WEb</a>
 			</li>
 
 			<li class="nav-item">
-				<a class="nav-link" href="../network/index.php">Network Forensics</a>
+				<a class="nav-link" href="../network/index.php">Pháp Y Mạng</a>
 			</li>								
 		</ul>
     </div>
@@ -105,17 +105,17 @@
 <div class="col-md-3 order-2 order-md-1" >
 
 <div class="list-group-flush myLightBox mb-4">
-  <div class="list-group-item contents" >Table of Contents</div>
-    <a href="index.php#Cryptography" class="list-group-item list-group-item-action">1. Cryptography</a>
+  <div class="list-group-item contents" >Danh mục</div>
+    <a href="index.php#Cryptography" class="list-group-item list-group-item-action">1. Mật Mã Học</a>
 
-  <a href="index.php#Ciphers" class="list-group-item list-group-item-action lvl2">1.1 Ciphers</a>
+  <a href="index.php#Ciphers" class="list-group-item list-group-item-action lvl2">1.1 Mật mã</a>
 
   
-  <a href="index.php#DigitalForensics" class="list-group-item list-group-item-action">2. Digital Forensics</a>
+  <a href="index.php#DigitalForensics" class="list-group-item list-group-item-action">2. Pháp y kỹ thuật số</a>
 
   <a href="index.php#Steganography" class="list-group-item list-group-item-action">3. Steganography</a>
   
-   <a href="index.php#FileSteganography" class="list-group-item list-group-item-action lvl2">3.1 File Steganography</a>
+   <a href="index.php#FileSteganography" class="list-group-item list-group-item-action lvl2">3.1 Tệp Steganography</a>
    
    
    <a href="cyberchef.php" class="list-group-item list-group-item-action">CyberChef</a>
@@ -128,10 +128,10 @@
 
 <div class="list-group-flush myLightBox mb-3">
 
-  <div class="list-group-item contents" >Challenges</div>
-  <a href="index1.php" class="list-group-item list-group-item-action">Challenge 1</a>
-  <a href="index2.php" class="list-group-item list-group-item-action">Challenge 2</a>
-  <a href="index3.php" class="list-group-item list-group-item-action">Challenge 3</a>
+  <div class="list-group-item contents" >Thử thách </div>
+  <a href="index1.php" class="list-group-item list-group-item-action">Thử thách 1</a>
+  <a href="index2.php" class="list-group-item list-group-item-action">Thử thách 2</a>
+  <a href="index3.php" class="list-group-item list-group-item-action">Thử thách 3</a>
 
 </div>
 

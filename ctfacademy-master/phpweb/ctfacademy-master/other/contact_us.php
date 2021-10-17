@@ -5,8 +5,8 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item active">Contact Us</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item active">Liên hệ chúng tôi</li>
 				</ol>				
 
 
@@ -17,10 +17,10 @@
 <h3>Liên hệ chúng tôi</h3>
 
 <p>
-CTF Academy strives to provide users with a fun and educational experience. If you have any issues with CTFA or wish to report an error, please contact us at <a href="mailto:contact@actvn.edu.vn" >		  
+Học viện CTF cố gắng cung cấp cho người dùng trải nghiệm thú vị và mang tính giáo dục. Nếu bạn gặp bất kỳ vấn đề nào với CTFA hoặc muốn thông báo lỗi, vui lòng liên hệ với chúng tôi theo địa chỉ<a href="mailto:contact@actvn.edu.vn" >		  
 contact@actvn.edu.vn
 
-		  </a> or direct message us at any of the following social media platforms.
+		  </a> hoặc nhắn tin trực tiếp cho chúng tôi tại bất kỳ nền tảng mạng xã hội nào sau đây.
 
 
 </p>

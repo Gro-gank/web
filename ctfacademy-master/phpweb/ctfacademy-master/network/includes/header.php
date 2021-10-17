@@ -79,7 +79,7 @@
 			
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../osint/index.php">INTEL Mã Nguồn Mở</a>
+				<a class="nav-link" href="../osint/index.php">Trí Tuệ Mã Nguồn Mở</a>
 			</li>
 			
 			<li class="nav-item">

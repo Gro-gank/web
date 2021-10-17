@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-			<title>CTF Academy : Open Source Intelligence</title>
+			<title>ACT CTF Academy : Trí Tuệ Mã Nguồn Mở</title>
 			<meta name="description" content="Open source intelligence, also known as OSINT, refers to the gathering of information from publicly available sources, such as social media, company websites, and news articles. There is a great deal of information that can be gathered about a company or person through open source intelligence. ">
 			
 			<meta name="author" content="CTF Academy">			
@@ -17,7 +17,7 @@
 				<script src="../src/bootstrap/js/bootstrap.min.js"></script>		
 				<link href="../style.css" rel="stylesheet" />				
 				<script src="../src/jquery.md5.min.js"></script>
-				<script src="../src/hashCheck.js"></script>s	
+				<script src="../src/hashCheck.js"></script>	
 				
 
 				<link rel="icon" href="../src/HVKTMM.ico" />
@@ -41,7 +41,7 @@
 						<h2 class="display-4">						
 						<span class = "mainblue">						
 						<a href="../index.php">						
-						CTF Academy
+						ACT CTF Academy
 						</a>						
 						</span>						
 						<br class="break">						
@@ -50,7 +50,7 @@
 						</span>						
 						<span class = "mainorange"> 
 						<a href="index.php">
-						Open Source Intelligence
+						Trí Tuệ Mã Nguồn Mở
 						</a>
 						</span>						
 						</h2>
@@ -73,21 +73,21 @@
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../crypto/index.php">Cryptography</a>
+				<a class="nav-link" href="../crypto/index.php">Mật Mã Học</a>
 			</li>
 			
 			
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../osint/index.php">Open-Source Intel</a>
+				<a class="nav-link" href="../osint/index.php">Trí Tuệ Mã Nguồn Mở</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../web/index.php">Web App Exploitation</a>
+				<a class="nav-link" href="../web/index.php">Khai Thác Ứng Dụng WEb</a>
 			</li>
 
 			<li class="nav-item">
-				<a class="nav-link" href="../network/index.php">Network Forensics</a>
+				<a class="nav-link" href="../network/index.php">Pháp Y Mạng</a>
 			</li>								
 		</ul>
     </div>
@@ -105,23 +105,23 @@
 <div class="col-md-3 order-2 order-md-1" >
 
 <div class="list-group-flush myLightBox mb-4">
-  <div class="list-group-item contents" >Table of Contents</div>
-    <a href="index.php#OpenSourceIntelligence" class="list-group-item list-group-item-action">1. Open Source Intelligence</a>
+  <div class="list-group-item contents" >Danh mục</div>
+    <a href="index.php#OpenSourceIntelligence" class="list-group-item list-group-item-action">1. Trí Tuệ Mã Nguồn Mở</a>
 
-  <a href="index.php#OSINTTechniques" class="list-group-item list-group-item-action lvl2">1.1 OSINT Techniques</a>
+  <a href="index.php#OSINTTechniques" class="list-group-item list-group-item-action lvl2">1.1 Kỹ Thuật OSINT </a>
 
   
-  <a href="index.php#OSINTAttackExample" class="list-group-item list-group-item-action lvl2">1.2 OSINT Attack Example</a>
+  <a href="index.php#OSINTAttackExample" class="list-group-item list-group-item-action lvl2">1.2 Ví dụ về Tấn công OSINT</a>
 
-  <a href="index.php#OSINTDefensiveTechniques" class="list-group-item list-group-item-action">2. OSINT Defensive Techniques</a>
+  <a href="index.php#OSINTDefensiveTechniques" class="list-group-item list-group-item-action">2. Kỹ thuật Phòng thủ OSINT </a>
   
 </div>
 
 <div class="list-group-flush myLightBox mb-3">
 
-  <div class="list-group-item contents" >Challenges</div>
-  <a href="index1.php" class="list-group-item list-group-item-action">Challenge 1</a>
-  <a href="index2.php" class="list-group-item list-group-item-action">Challenge 2</a>
+  <div class="list-group-item contents" >Thử thách </div>
+  <a href="index1.php" class="list-group-item list-group-item-action">Thử thách 1</a>
+  <a href="index2.php" class="list-group-item list-group-item-action">Thử thách 2</a>
 
 </div>
 

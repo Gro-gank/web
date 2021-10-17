@@ -49,7 +49,7 @@
  
     <!-- Footer Links -->
     <div class="footer-copyright py-3">
-		&#169; 2021 Học Viện Đào Tạo Lực Lượng Không Gian Mạng		
+		&#169; 2021 ACT Học Viện Đào Tạo Lực Lượng Không Gian Mạng	 	
 		<span class = "termsPolicy">
 		<a href="../other/terms-of-use.php">Điều khoản sử dụng</a> 		
 		|

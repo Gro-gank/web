@@ -70,7 +70,7 @@
 
 
 					<li class="nav-item">
-						<a class="nav-link" href="osint/index.php">Mã nguồn mở Intel</a>
+						<a class="nav-link" href="osint/index.php">Trí Tuệ Mã Nguồn Mở</a>
 					</li>
 
 					<li class="nav-item">
