@@ -46,9 +46,9 @@
 						<span class = "headerDash">
 						- 
 						</span>						
-						<span class = "mainorange"> 
+						<span class = "mainorange"style="font-size: 3rem;"> 
 						<a href="index.php">
-						Khai Thác Ứng Dụng WEb	
+						Khai Thác Ứng Dụng WEB	
 						</a>
 						</span>						
 						</h2>
@@ -77,7 +77,7 @@
 			
 			
 			<li class="nav-item">
-				<a class="nav-link" href="../osint/index.php">Trí Tuệ Mã Nguồn Mở</a>
+				<a class="nav-link" href="../osint/index.php">Tri tuệ mã nguồn mở</a>
 			</li>
 			
 			<li class="nav-item">
