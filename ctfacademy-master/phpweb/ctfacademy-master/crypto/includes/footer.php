@@ -7,10 +7,10 @@
 	  <!-- Footer Column 1 -->
 	<div class="col-md-4 order-2 order-md-1 leftInfo">	
 	<div class="infoLinks">
-		<a href="other/contact_us.php" >Liên hệ chúng tôi</a>
-		<a href="other/glossary.php" >Bảng chú giải</a>
-		<a href="other/quick_start.php" >Hướng dẫn nhanh</a>	
-		<a href="other/legal_disclaimer.php" >Tuyên bố từ chối trách nhiệm pháp lý</a>
+		<a href="../other/contact_us.php" >Liên hệ chúng tôi</a>
+		<a href="../other/glossary.php" >Bảng chú giải</a>
+		<a href="../other/quick_start.php" >Hướng dẫn nhanh</a>	
+		<a href="../other/legal_disclaimer.php" >Tuyên bố từ chối trách nhiệm pháp lý</a>
 	</div>
 	</div>
   <!-- Footer Column 2 -->
@@ -38,10 +38,10 @@
 	  <!-- Footer Column 3 -->
 	  <div class="col-md-4 order-3 order-md-3 rightInfo">
 	<div class="infoLinks">
-<a href="other/about_us.php" >Về chúng tôi</a> 
-  <a href="other/about_us.php#jacob">Cổ Ngọc Minh Huy</a>   
-	<a href="other/about_us.php#james">Phạm Đăng Thắng</a> 
-	<a href="other/about_us.php#john">Phạm Ngọc Luân</a> 
+<a href="../other/about_us.php" >Về chúng tôi</a> 
+  <a href="../other/about_us.php#jacob">Cổ Ngọc Minh Huy</a>   
+	<a href="../other/about_us.php#james">Phạm Đăng Thắng</a> 
+	<a href="../other/about_us.php#john">Phạm Ngọc Luân</a> 
 	</div>	
 	</div>	
 	</div>	  
@@ -51,9 +51,9 @@
     <div class="footer-copyright py-3">
 		&#169; 2021 Học Viện Đào Tạo Lực Lượng Không Gian Mạng		
 		<span class = "termsPolicy">
-		<a href="other/terms-of-use.php">Điều khoản sử dụng</a> 		
+		<a href="../other/terms-of-use.php">Điều khoản sử dụng</a> 		
 		|
-		<a href="other/privacy-policy.php">Chính sách bảo mật</a>		
+		<a href="../other/privacy-policy.php">Chính sách bảo mật</a>		
 		</span>
     </div>
   </footer>
