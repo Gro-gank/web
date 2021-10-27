@@ -4,8 +4,8 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item active">Cryptography</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item active">Mật Mã Học</li>
 				</ol>				
 
 
@@ -13,16 +13,16 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="../other/enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3 id="Cryptography">1. Cryptography</h3>
+<h3 id="Cryptography">1. Mật Mã Học</h3>
 
 <p>
-In this lesson we will cover a few cryptographic concepts along with the related fields of digital forensics and steganography. Cryptography is the process of encoding or decoding messages and data. In this lesson we will learn about cryptography in three broad sections, ciphers, encryption, and hashing. Although cryptography is widely used in computer systems today, mostly in the form of encryption and hashes, some cryptographic techniques have been in use since the days of Julius Caesar and the Roman Empire. 
+Trong bài học này, chúng ta sẽ đề cập đến một số khái niệm mật mã cùng với các lĩnh vực liên quan của pháp y kỹ thuật số và mật mã học. Mật mã học là quá trình mã hóa hoặc giải mã các thông điệp và dữ liệu. Trong bài học này, chúng ta sẽ tìm hiểu về mật mã trong ba phần lớn, mật mã, mã hóa và băm. Mặc dù mật mã được sử dụng rộng rãi trong các hệ thống máy tính ngày nay, chủ yếu ở dạng mã hóa và băm, một số kỹ thuật mật mã đã được sử dụng từ thời của Julius Caesar và Đế chế La Mã.
 </p>
 
-<h4 id="Ciphers">1.1 Ciphers</h4>
+<h4 id="Ciphers">1.1 Mật mã</h4>
 
 <p>
-One of the earliest records of cryptography is the Caesar Cipher. The Caesar Cipher is a form of shift cipher and was developed during the reign of Julius Caesar for the Roman Empire to safely convey military messages. The Caesar Cipher, also known as a Rotation, or ROT, Cipher, works by shifting each letter of the alphabet over by a certain number of places. For example, a Caesar Cipher with a shift of two would take the letter “A” and “shift” it two places down the alphabet to “C.” In other words, to encode a message using the Caesar Cipher with a shift of two, “A” would be replaced with “C,” “B” would be replaced with “D,” and so on until the end of the alphabet where the shift raps around, “Y” would become “A” and “Z” would be replaced with “B.” To decode a ROT Ciphered message with a shift of two, you would reverse the encoding processes; replacing “C” with “A,” “D” with “B,” and so on. To demonstrate this technique, let us encode and decode a message using the ROT13, or Rotation 13, cipher. The ROT13 cipher is the same as a Caesar Cipher with a shift of 13. Starting with a plaintext message of “Crypto is Cool” we will shift each letter 13 places in the alphabet. “C” is shifted to “P,” “r” raps back around and becomes “e.” This process is continued until all of the lettered are ciphered, which result in the ciphertext message, “Pelcgb vf Pbby.” To decode the message, we reverse the process and shift “P” back to “C” and “e” back to “r” until the message is decoded. To make this process easier and faster, many cryptographic tools and application have been developed. CyberChef is a free and open-source cryptographic tool that is included in the CTFA toolkit. <a href="cyberchef.php" target="_blank">Click here to open CyberChef in a new tab</a>. Let use decode our message again, this time using CyberChef. In the side-bar menu of CyberChef search for the “ROT13” cipher. Next click and drag the cipher into the “Recipe” box. Now, enter the ciphertext, “Pelcgb vf Pbby,” into the “Input” box and click “Bake!” You should now see the decoded plaintext message, “Crypto is Cool,” in the “Output” box. 
+Một trong những bản ghi sớm nhất về mật mã là Caesar Cipher. Mật mã Caesar là một dạng mật mã thay đổi và được phát triển dưới thời trị vì của Julius Caesar cho Đế chế La Mã để truyền tải các thông điệp quân sự một cách an toàn.Caesar Cipher, còn được gọi là Rotation, hoặc ROT, Cipher, hoạt động bằng cách dịch chuyển từng chữ cái trong bảng chữ cái qua một số vị trí nhất định. Ví dụ, một Mật mã Caesar nhảy đôi sẽ lấy chữ cái “A” và “dịch chuyển” nó xuống hai vị trí trong bảng chữ cái thành “C.”. Nói cách khác, để mã hóa một tin nhắn bằng Mật mã Caesar với sự dịch chuyển hai, “A” sẽ được thay thế bằng “C”, “B” sẽ được thay thế bằng “D”, v.v. đến cuối bảng chữ cái thì chuyển đổi vòng, "Y" sẽ trở thành "A" và "Z" sẽ được thay thế bằng "B.". Để giải mã một thông điệp được mã hóa ROT với cách nhảy đôi, bạn sẽ đảo ngược các quy trình mã hóa; thay thế “C” bằng “A”, “D” bằng “B”, v.v. Để chứng minh kỹ thuật này, chúng ta hãy mã hóa và giải mã một thông điệp bằng cách sử dụng mật mã ROT13 hoặc Rotation 13. Mật mã ROT13 giống như Mật mã Caesar với độ dịch chuyển là 13. Bắt đầu với thông điệp bản rõ “Crypto is Cool”, chúng ta sẽ dịch chuyển từng chữ cái 13 vị trí trong bảng chữ cái. “C” được chuyển thành “P”, “r” đọc ngược lại và trở thành “e”. Quá trình này được tiếp tục cho đến khi tất cả các chữ cái được mã hóa, dẫn đến thông báo bản mã, "Pelcgb vf Pbby." Để giải mã thông điệp, chúng tôi đảo ngược quá trình và chuyển “P” trở lại “C” và “e” trở lại “r” cho đến khi thông điệp được giải mã. Để làm cho quá trình này dễ dàng hơn và nhanh hơn, nhiều công cụ và ứng dụng mật mã đã được phát triển. CyberChef là một công cụ mã hóa mã nguồn mở và miễn phí được bao gồm trong bộ công cụ ACT-CTFA. <a href="cyberchef.php" target="_blank">Nhấn vào đây để mở CyberChef trong tab mới</a>. Hãy sử dụng giải mã thông điệp của chúng tôi một lần nữa, lần này bằng cách sử dụng CyberChef. Trong menu thanh bên của CyberChef, hãy tìm kiếm mật mã “ROT13”. Tiếp theo, nhấp và kéo mật mã vào hộp “Recipe(Công thức)”. Bây giờ, hãy nhập bản mã, “Pelcgb vf Pbby,” vào ô “Input” và nhấp vào “Bake(Nướng)!” Bây giờ bạn sẽ thấy thông báo văn bản rõ đã được giải mã, “Crypto is Cool” trong hộp “Output”. 
 </p>
 
 
@@ -31,28 +31,27 @@ One of the earliest records of cryptography is the Caesar Cipher. The Caesar Cip
 </div>
  
 
-<h3 id="DigitalForensics">2. Digital Forensics</h3>
+<h3 id="DigitalForensics">2. Pháp y kỹ thuật số</h3>
 <p>
-Digital forensics is the analysis and investigation of digital data, and digital forensics can take many forms, from analyzing an entire hard drive or individual files to investigating computer network traffic (We will cover network forensics in a later lesson). In this lesson we will focus on analyzing individual files and determining file types. There are countless different types of files, some of the more common file types include text files, Microsoft Word Documents, PNG picture files, and executable files. Most of the time a file can be identified by the file extension, the few letters after the dot (“.”). For example, a text file has an extension of “.txt,” a Word Document has an extension of “.docx,” a PNG’s extension is “.png,” and executable files use the “.exe” extension. However, file extensions can be changed; thus, a file’s extension is not always correct. For example, a file can have an extension of “.exe” but not be an executable file. To identify a file without the correct file extension, we must look elsewhere for an indication of the file type. A reliable way to properly identify a file is by looking at it’s “file signature.” A file signature, sometimes referred to as the “file header” is a few bytes of data found at the beginning of a file that is unique to each file type. Many file types have signatures that correspond to the file’s proper extension; for example, the file signature for a PNG picture file is “PNG.” This makes identifying some files very easy. There are many programs that allow you to view the file signature of a file; for simplicity sake, we will use the Microsoft Notepad application that is preinstalled on Windows. To open a file in Notepad, right-click on the file and select “Open with” and find the “Notepad” application (you may have to click “Show more applications” to see the “Notepad” option). Now that the file is open in notepad, we can see the file signature. The first few bytes of a “.png” file are “.PNG”. This indicates that the file is a PNG file. After properly identifying a file’s type, we can close notepad and append the correct file extension. To do this, right-click the file and select “Rename.” Now replace the incorrect file extension with the extension of the file type identified by the file signature and save the file (If prompted with a warning about changing file extensions, click “Ok”). Finally, double-click the file to view it to open it in its native application. Changing file extensions can be used to hide a malicious file in plain sight; however, using digital forensics, the true file type can be discovered. 
-
+Pháp y kỹ thuật số là phân tích và điều tra dữ liệu kỹ thuật số, và pháp y kỹ thuật số có thể có nhiều hình thức, từ phân tích toàn bộ ổ cứng hoặc các tệp riêng lẻ đến điều tra lưu lượng mạng máy tính (Chúng tôi sẽ đề cập đến pháp y mạng trong một bài học sau). Trong bài học này, chúng ta sẽ tập trung vào phân tích các tệp riêng lẻ và xác định loại tệp. Có vô số loại tệp khác nhau, một số loại tệp phổ biến hơn bao gồm tệp văn bản, Tài liệu Microsoft Word, tệp ảnh PNG và tệp thực thi. Hầu hết thời gian một tệp có thể được xác định bằng phần mở rộng tệp, một vài ký tự sau dấu chấm (“.”). Ví dụ: một tệp văn bản có phần mở rộng là “.txt”, Tài liệu Word có phần mở rộng là “.docx”, phần mở rộng của PNG là “.png” và các tệp thực thi sử dụng phần mở rộng “.exe”. Tuy nhiên, phần mở rộng tệp có thể được thay đổi; do đó, phần mở rộng của tệp không phải lúc nào cũng chính xác. Ví dụ: một tệp có thể có phần mở rộng là “.exe” nhưng không phải là tệp thực thi. Để xác định một tệp không có phần mở rộng tệp chính xác, chúng ta phải tìm ở nơi khác để biết chỉ báo về loại tệp. Một cách đáng tin cậy để xác định đúng một tệp là nhìn vào “chữ ký tệp”. Chữ ký tệp, đôi khi được gọi là “tiêu đề tệp” là một vài byte dữ liệu được tìm thấy ở đầu tệp, là duy nhất cho mỗi loại tệp. Nhiều loại tệp có chữ ký tương ứng với phần mở rộng thích hợp của tệp; ví dụ: chữ ký tệp cho tệp ảnh PNG là “PNG”. Điều này làm cho việc xác định một số tệp rất dễ dàng. Có nhiều chương trình cho phép bạn xem chữ ký tập tin của một tập tin; vì mục đích đơn giản, chúng tôi sẽ sử dụng ứng dụng Microsoft Notepad được cài đặt sẵn trên Windows. Để mở tệp trong Notepad, nhấp chuột phải vào tệp và chọn “Mở bằng” và tìm ứng dụng “Notepad” (bạn có thể phải nhấp vào “Hiển thị thêm ứng dụng” để xem tùy chọn “Notepad”). Bây giờ tệp được mở trong notepad, chúng ta có thể thấy chữ ký tệp. Vài byte đầu tiên của tệp “.png” là “.PNG”. Điều này chỉ ra rằng tệp là tệp PNG. Sau khi xác định đúng loại tệp, chúng tôi có thể đóng notepad và nối phần mở rộng tệp chính xác. Để thực hiện việc này, hãy nhấp chuột phải vào tệp và chọn “Đổi tên”. Bây giờ hãy thay thế phần mở rộng tệp không chính xác bằng phần mở rộng của loại tệp được xác định bởi chữ ký tệp và lưu tệp (Nếu được nhắc với cảnh báo về việc thay đổi phần mở rộng tệp, hãy nhấp vào “Ok”). Cuối cùng, nhấp đúp vào tệp để xem để mở tệp trong ứng dụng gốc của nó. Thay đổi phần mở rộng tệp có thể được sử dụng để ẩn tệp độc hại trong tầm nhìn rõ ràng; tuy nhiên, bằng cách sử dụng pháp y kỹ thuật số, loại tệp thực sự có thể được phát hiện.
+</p>
 <h3 id="Steganography">3. Steganography</h3>
 <p>
-Steganography, abbreviated as stegano, is the technique of hiding messages or data within other messages and data. For example, the following sentence contains a secret message: 
-“<em>Since everyone can read, encoding text in neutral sentences is doubtfully effective</em>” 
+Steganography, viết tắt là stegano, là kỹ thuật ẩn tin nhắn hoặc dữ liệu trong các tin nhắn và dữ liệu khác. Ví dụ: câu sau chứa một thông điệp bí mật:
+“<em>Vì mọi người đều có thể đọc, nên mã hóa văn bản trong các câu trung tính là mang tính hiệu quả nhưng đáng ngờ</em>” 
 </p>
 
 <p>
-Although that sentence may seem oddly structured, it is hiding a secret message. One simple text-based steganographic method is to hide a message in the first letter of each word in a sentence or paragraph. By applying this method to the above sentence, the message “Secret inside” is reveled. There are countless steganographic methods that can be used to hide messages within other data; for this lesson we will focus on file-based steganography. 
+Mặc dù câu đó có vẻ có cấu trúc kỳ lạ, nhưng nó đang ẩn chứa một thông điệp bí mật. Một phương pháp ẩn thư dựa trên văn bản đơn giản là ẩn một thông báo bằng chữ cái đầu tiên của mỗi từ trong một câu hoặc đoạn văn. Bằng cách áp dụng phương pháp này cho câu trên, thông điệp “Bí mật bên trong” được tiết lộ. Có vô số phương pháp mật mã có thể được sử dụng để ẩn thông báo trong dữ liệu khác; trong bài học này, chúng tôi sẽ tập trung vào kỹ thuật ẩn dựa trên tệp.
 </p>
  
-<h4 id="FileSteganography">3.1 File Steganography</h4>
+<h4 id="FileSteganography">3.1 Tệp Steganography</h4>
 
 <p>
-Much like text steganography hides messages within text, file steganography is used to hide messages or files within a file. As you learned in the forensics section above, files can be viewed and edited at the hexadecimal level. This technique can be used to hide messages within normal files. For example, a user can open a PNG file in a hex editor and add a message at the end of the file by simply adding text after the “end of file” indicator. Just like a file header indicates the beginning of a file, the “end of file” signature denotes the end of a file and informs a program to stop reading the file at that point. This can be leveraged to hide a message at the end of a file without corrupting the data. Although a hex editor program is necessary to write the message in the file, simple plaintext messages can be read using a simple text editor program, such as Microsoft notepad. 
-</p>
+Giống như ẩn mã văn bản ẩn tin nhắn trong văn bản, ẩn mã tệp được sử dụng để ẩn tin nhắn hoặc tệp trong tệp. Như bạn đã học trong phần pháp lý ở trên, các tệp có thể được xem và chỉnh sửa ở cấp độ thập lục phân. Kỹ thuật này có thể được sử dụng để ẩn thư trong các tệp bình thường. Ví dụ: người dùng có thể mở tệp PNG trong trình chỉnh sửa hex và thêm thông báo vào cuối tệp bằng cách chỉ cần thêm văn bản sau chỉ báo “kết thúc tệp”. Giống như tiêu đề tệp cho biết phần đầu của tệp, dấu hiệu “cuối tệp” biểu thị phần cuối của tệp và thông báo cho chương trình ngừng đọc tệp tại thời điểm đó. Điều này có thể được tận dụng để ẩn thông báo ở cuối tệp mà không làm hỏng dữ liệu. Mặc dù chương trình soạn thảo hex là cần thiết để viết thông báo trong tệp, nhưng có thể đọc các thông báo văn bản rõ đơn giản bằng chương trình soạn thảo văn bản đơn giản, chẳng hạn như Microsoft notepad.<p class=""></p></p>
 
 <p>
-To investigate a suspicious file for steganography, first open the file in its native application; for example, open a picture file in a picture viewing application. Most steganographic files will appear normal at first glance, but a thorough investigation should start at the surface and then dig deeper. To check for any hidden messages at the end of a picture file, first right click the file and select “Open with” and find the “Notepad” application (you might have to click “Show more applications” to see the “Notepad” option). Now that the file is open in notepad, you can check the file for hidden messages. At the bottom of the file there is the “end of file” signature, denoted by “IEND,” after this signature, a secret message can be appended and not affect the functionality of the file. The screenshot below shows a secret message at the end of a PNG file.
+Để điều tra một tệp đáng ngờ để lấy mật mã, trước tiên hãy mở tệp trong ứng dụng gốc của nó; ví dụ: mở tệp ảnh trong ứng dụng xem ảnh. Hầu hết các tệp steganographic thoạt nhìn sẽ có vẻ bình thường, nhưng chúng ta nên kiểm tra kỹ lưỡng bắt đầu từ mặt ngoài và sau đó tìm hiểu sâu hơn. Để kiểm tra bất kỳ thông báo ẩn nào ở cuối tệp ảnh, trước tiên, nhấp chuột phải vào tệp và chọn “Open with (Mở bằng)” và tìm ứng dụng “Notepad” (bạn có thể phải nhấp vào “Show more applications(Hiển thị thêm ứng dụng)” để xem tùy chọn “Notepad” ). Bây giờ tệp đã được mở trong notepad, bạn có thể kiểm tra tệp để tìm thư ẩn. Ở cuối tệp có chữ ký “cuối tệp”, ký hiệu là “IEND”, sau chữ ký này, một thông điệp bí mật có thể được thêm vào và không ảnh hưởng đến chức năng của tệp. Ảnh chụp màn hình bên dưới hiển thị một thông điệp bí mật ở cuối tệp PNG.
 </p>
  
 
@@ -61,14 +60,14 @@ To investigate a suspicious file for steganography, first open the file in its n
 </div>
 
 <p>
-Now it’s time to use what you have learned in this lesson to solve a few challenges!
+Bây giờ đã đến lúc sử dụng những gì bạn đã học được trong bài học này để giải quyết một số thử thách!
 </p>
 
 
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

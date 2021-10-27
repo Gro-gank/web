@@ -9,9 +9,9 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index3.php">Cryptography</a></li>
-				  <li class="breadcrumb-item active">Challenge 3</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index3.php">Mật mã học</a></li>
+				  <li class="breadcrumb-item active">Thử thách 3</li>
 				</ol>				
 
 
@@ -20,26 +20,25 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 3: Steganography</h3>
+<h3>Thử thách 3: Steganography</h3>
 
 <p>
-There is a flag hidden somewhere in this file. See if you can find it!
+Có một flag ẩn ở đâu đó trong tệp này. Xem nếu bạn có thể tìm thấy nó!</p>
+
+<p>
+<a href="challenge3/Stego_1.png" target="_blank">Nhấn chuột phải vào đây và chọn "Save as" để lưu hình ảnh này để bạn có thể tìm thấy flag.</a>
 </p>
 
-<p>
-<a href="challenge3/Stego_1.png" target="_blank">Right-click here and select "Save as" to save this image so you can find the flag.</a>
-</p>
-
 
 <p>
-<b>Challenge 3:</b> Find the flag and input the answer.
+<b>Thử thách 3:</b> Tìm flag và nhập câu trả lời.
 </p>
 
 <!-- Flag input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Input Flag</p>	
+    <p class="h4">Nhập Flag</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -48,7 +47,7 @@ There is a flag hidden somewhere in this file. See if you can find it!
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Submit</button>
+    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Gửi</button>
 
     </div>
 </form>
@@ -58,7 +57,7 @@ There is a flag hidden somewhere in this file. See if you can find it!
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

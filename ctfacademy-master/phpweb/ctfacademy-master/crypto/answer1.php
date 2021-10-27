@@ -5,10 +5,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Cryptography</a></li>
-				  <li class="breadcrumb-item"><a href="index1.php">Challenge 1</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Mật Mã Học</a></li>
+				  <li class="breadcrumb-item"><a href="index1.php">Thử thách 1</a></li>
+				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
 
@@ -17,18 +17,18 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 1 Explanation: Cryptography</h3>
+<h3>Giải thích thử thách 1: Mật Mã</h3>
 
 <p>
-Encoding and ciphering messages can be an effective method for sending secret messages; however, the cipher that is used must be very complex and hard to decode to be effective. In this lesson, we learned about a simple cipher that was developed around 50 B.C. for Julius Caesar. In its day, the cipher was complex enough to secretly relay messages, but in the modern, world the ROT cipher is very weak and offers little secrecy. To be effective today, a cipher must be incredibly complex and hard to decode.
+Mã hóa và tin nhắn mã hóa có thể là một phương pháp hiệu quả để gửi tin nhắn bí mật; tuy nhiên, mật mã được sử dụng phải rất phức tạp và khó giải mã để có hiệu quả. Trong bài học này, chúng ta đã tìm hiểu về một mật mã đơn giản được phát triển vào khoảng năm 50 trước Công nguyên cho Julius Caesar. Vào thời của nó, mật mã đủ phức tạp để bí mật chuyển tiếp các thông điệp, nhưng trong thế giới hiện đại, mật mã ROT rất yếu và ít cung cấp bí mật. Để có hiệu quả ngày nay, mật mã phải cực kỳ phức tạp và khó giải mã.
 </p>
 
 <p>
-In this lesson, we learned about the ROT, or Caesar, cipher and how to decode it by hand, as well as decoding it using CyberChef. In this explanation we will be using CyberChef to decode the message.
+Trong bài học này, chúng ta đã học về mật mã ROT, hay Caesar, và cách giải mã nó bằng tay, cũng như giải mã nó bằng CyberChef. Trong phần giải thích này, chúng tôi sẽ sử dụng CyberChef để giải mã thông điệp.
 </p>
 
 <p>
-First, we open <a href="cyberchef.php" target="_blank">CyberChef</a> and input the encoded message into the “Input” box.
+Đầu tiên, chúng ta mở <a href="cyberchef.php" target="_blank">CyberChef</a> và nhập thông điệp được mã hóa vào hộp “Input”.
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -36,8 +36,7 @@ First, we open <a href="cyberchef.php" target="_blank">CyberChef</a> and input t
 </div>
 
 <p>
-Use the serach tool to search for the “ROT13” cipher and drag-and-drop it into the “Recipe” box. Now you should see the decoded message and the answers to the questions.
-</p>
+Sử dụng công cụ "Search" để tìm kiếm mật mã “ROT13” và kéo và thả nó vào hộp “Recipe(Công thức)”. Bây giờ bạn sẽ thấy tin nhắn được giải mã và câu trả lời cho các câu hỏi.</p>
 
 <div class="screenshot myLightBox my-3">
 		<img src="challenge1/crypto1.2.JPG" alt="Explanation Screenshot 2">
@@ -45,7 +44,7 @@ Use the serach tool to search for the “ROT13” cipher and drag-and-drop it in
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

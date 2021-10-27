@@ -5,10 +5,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Cryptography</a></li>
-				  <li class="breadcrumb-item"><a href="index3.php">Challenge 3</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Mật Mã Học</a></li>
+				  <li class="breadcrumb-item"><a href="index3.php">Thử thách 3</a></li>
+				  <li class="breadcrumb-item active">Giải thíhc</li>
 				</ol>				
 
 
@@ -17,15 +17,14 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 3 Explanation: Cryptography</h3>
+<h3>Thử thách 3 giải thích: Mật mã</h3>
 
 <p>
-There are many steganographic techniques used to hide a message within another message or a file. In this lesson, we learned about the steganographic technique of hiding a message at the end of a picture file by entering text after the “end of file” signature. This technique can be used to send messages that are hidden in plain sight.
+Có nhiều kỹ thuật mật mã được sử dụng để ẩn một tin nhắn trong một tin nhắn hoặc một tập tin khác. Trong bài học này, chúng ta đã tìm hiểu về kỹ thuật ẩn thư ở cuối tệp ảnh bằng cách nhập văn bản sau chữ ký “cuối tệp”. Kỹ thuật này có thể được sử dụng để gửi tin nhắn bị ẩn ngay trước mắt ta.
 </p>
 
 <p>
-First open the picture file in a picture viewing application. Upon first glance, the picture seems benign and free of hidden messages.
-</p>
+Đầu tiên, mở tệp ảnh trong ứng dụng xem ảnh. Thoạt nhìn, bức tranh có vẻ bình thường và không có thông điệp ẩn.</p>
 
 
 <div class="screenshot myLightBox my-3">
@@ -33,7 +32,7 @@ First open the picture file in a picture viewing application. Upon first glance,
 </div>
 
 <p>
-Next open the file in Notepad and view the text that comprises the picture file. Scroll to the bottom of the file, and you will find a secret message appended to the end of the file. At the bottom of the file, you will find a plaintext flag: ctfa{Stegosaurus}
+Tiếp theo, mở tệp trong Notepad và xem văn bản bao gồm tệp ảnh. Cuộn xuống cuối tệp và bạn sẽ tìm thấy một thông điệp bí mật được nối vào cuối tệp. Ở cuối tệp, bạn sẽ tìm thấy cờ văn bản rõ: ctfa {Stegosaurus}
 </p>
 
 
@@ -44,7 +43,7 @@ Next open the file in Notepad and view the text that comprises the picture file.
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

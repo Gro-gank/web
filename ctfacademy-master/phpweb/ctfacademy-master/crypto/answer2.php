@@ -6,10 +6,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Cryptography</a></li>
-				  <li class="breadcrumb-item"><a href="index2.php">Challenge 2</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Mậ Mã Học</a></li>
+				  <li class="breadcrumb-item"><a href="index2.php">Thử thách 2</a></li>
+				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
 
@@ -18,14 +18,14 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 2 Explanation: Forensics</h3>
+<h3>Thử thách 2 Giải thích: Pháp Y</h3>
 
 <p>
-Cyber forensics is an important field in the cybersecurity world. Through forensics, cyber investigators are able to identify and understand the actions and methods of cyber criminals. File forensic techniques range from file signature identification to complicated binary analysis. In the preceding lesson, we learned how to identify file types through examining file signatures. 
+Pháp y mạng là một lĩnh vực quan trọng trong thế giới an ninh mạng. Thông qua pháp y, các nhà điều tra mạng có thể xác định và hiểu được các hành động và phương thức của tội phạm mạng. Các kỹ thuật pháp y của tệp bao gồm từ nhận dạng chữ ký tệp đến phân tích nhị phân phức tạp. Trong bài học trước, chúng ta đã học cách xác định các loại tệp thông qua việc kiểm tra chữ ký tệp.
 </p>
 
 <p>
-The provided file has an extension of “.pdf” however, if you try to open the file by double-clicking on it, the file will not open properly and likely display an error message.
+Tệp được cung cấp có phần mở rộng là “.pdf”, tuy nhiên, nếu bạn cố gắng mở tệp bằng cách nhấp đúp vào tệp, tệp sẽ không mở đúng cách và có khả năng hiển thị thông báo lỗi.
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -33,7 +33,7 @@ The provided file has an extension of “.pdf” however, if you try to open the
 </div>
 
 <p>
-To investigate this file, first open the file in Notepad to view the file signature. As you can see in the screenshot the file signature, and answer to question 1, is “PNG.”
+Để điều tra tệp này, trước tiên hãy mở tệp trong Notepad để xem chữ ký tệp. Như bạn có thể thấy trong ảnh chụp màn hình, chữ ký tệp và câu trả lời cho câu hỏi 1, là “PNG”.
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -41,15 +41,14 @@ To investigate this file, first open the file in Notepad to view the file signat
 </div>
 
 <p>
-To view the file as a PNG, rename the file and change the extension to “.png”, and open the file using a picture viewing application. In the picture, you will find the flag.
-</p>
+Để xem tệp dưới dạng PNG, hãy đổi tên tệp và thay đổi phần mở rộng thành “.png” và mở tệp bằng ứng dụng xem ảnh. Trong hình, bạn sẽ tìm thấy lá flag.</p>
 
 <div class="otherPic myLightBox my-3">
 		<img src="challenge2/extension.png" alt="Explanation example">
 </div>
 
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

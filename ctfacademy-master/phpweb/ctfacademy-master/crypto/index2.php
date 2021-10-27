@@ -10,9 +10,9 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Cryptography</a></li>
-				  <li class="breadcrumb-item active">Challenge 2</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Mật Mã Học</a></li>
+				  <li class="breadcrumb-item active">Thử thách 2</li>
 				</ol>				
 
 
@@ -21,29 +21,29 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 2: Forensics</h3>
+<h3>Thử thách 2: Pháp Y</h3>
 
 <p>
-We intercepted a file containing a secret flag, but we can’t seem to open the file. See if you can identify the proper file-type and open the file.
+Chúng tôi đã chặn một tệp chứa flag bí mật, nhưng chúng tôi dường như không thể mở tệp. Xem liệu bạn có thể xác định loại tệp thích hợp và mở tệp hay không.
 </p>
 
 <p>
 <a href="challenge2/forensics_challenge.pdf"  target="_blank">
-Click here to access the file: forensics_challenge.pdf
+Nhấn vào đây để truy cập vào file: forensics_challenge.pdf
 </a>
 </p>
 
 
 
 <p>
-<b>Question 1:</b> What is the file signature for this file?
+<b>Câu hỏi 1:</b> Chữ ký của tệp này là gì?
 </p>
 
 <!-- Q1 input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 1</p>	
+    <p class="h4">Câu hỏi 1</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -52,7 +52,7 @@ Click here to access the file: forensics_challenge.pdf
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Submit</button>
+    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Gửi</button>
 
     </div>
 </form>
@@ -61,14 +61,14 @@ Click here to access the file: forensics_challenge.pdf
 
 
 <p>
-<b>Challenge 2:</b> Find the flag and input the answer.
+<b>Thử thách 2:</b> Tìm flag và nhập câu trả lời.
 </p>
 
 <!-- Flag input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Input Flag</p>	
+    <p class="h4">Nhập Flag</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -77,7 +77,7 @@ Click here to access the file: forensics_challenge.pdf
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Submit</button>
+    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Gửi</button>
 
     </div>
 </form>
@@ -87,7 +87,7 @@ Click here to access the file: forensics_challenge.pdf
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

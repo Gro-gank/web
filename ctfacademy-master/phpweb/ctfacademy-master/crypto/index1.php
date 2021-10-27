@@ -10,9 +10,9 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Cryptography</a></li>
-				  <li class="breadcrumb-item active">Challenge 1</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Mật Mẫ Học</a></li>
+				  <li class="breadcrumb-item active">Thử thách 1</li>
 				</ol>				
 
 
@@ -20,33 +20,33 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="../../other/enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3>Challenge 1: Cryptography</h3>
+<h3>Thử thách 1: Mật mã</h3>
 
 <p>
-We intercepted a secret message, but it seems to be encoded using a cipher. See if you can decode it and get the flag!
+Chúng tôi đã chặn một tin nhắn bí mật, nhưng nó dường như được mã hóa bằng mật mã. Xem nếu bạn có thể giải mã nó và nhận được flag!
 </p>
 
 
 <p>
-<b>Hint:</b> Don't forget to use <a href="../crypto/cyberchef.php" target="_blank">CyberChef</a>.
+<b>Gợi ý:</b> Đừng quên sử dụng <a href="../crypto/cyberchef.php" target="_blank">CyberChef</a>.
 </p>
 
 
 
 
 <p>
-<b>Secret message:</b> Gur frperg cnffjbeq vf uvqqra haqre gur oevqtr. Gur synt vf pgsn{pvcure_qrpvcure}
+<b>Thông điệp bí ẩn:</b> Gur frperg cnffjbeq vf uvqqra haqre gur oevqtr. Gur synt vf pgsn{pvcure_qrpvcure}
 </p>
 
 <p>
-<b>Question 1:</b> How many letters is the encoded message shifted?
+<b>Câu 1:</b> Tin nhắn được mã hóa dịch chuyển bao nhiêu ký tự?
 </p>
 
 <!-- Q1 input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 1</p>	
+    <p class="h4">Câu hỏi 1</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -55,7 +55,7 @@ We intercepted a secret message, but it seems to be encoded using a cipher. See 
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Submit</button>
+    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Gửi</button>
 
     </div>
 </form>
@@ -64,14 +64,14 @@ We intercepted a secret message, but it seems to be encoded using a cipher. See 
 
 
 <p>
-<b>Challenge 1:</b> Find the flag and input the answer.
+<b>Thử thách 1:</b> Tìm flag và nhập câu trả lời.
 </p>
 
 <!-- Flag input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Input Flag</p>	
+    <p class="h4">Nhập Flag</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -80,7 +80,7 @@ We intercepted a secret message, but it seems to be encoded using a cipher. See 
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Submit</button>
+    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Nộp</button>
 
     </div>
 </form>
@@ -90,7 +90,7 @@ We intercepted a secret message, but it seems to be encoded using a cipher. See 
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 
