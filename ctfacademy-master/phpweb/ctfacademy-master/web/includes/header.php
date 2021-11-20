@@ -104,9 +104,9 @@
 
 <div class="list-group-flush myLightBox mb-4">
   <div class="list-group-item contents" >Danh mục</div>
-    <a href="index.php#WebAppExploitation" class="list-group-item list-group-item-action">1. Khai thác ứng dụng WEb	</a>
+    <a href="index.php#WebAppExploitation" class="list-group-item list-group-item-action">1. Khai thác ứng dụng Web	</a>
 
-  <a href="index.php#html" class="list-group-item list-group-item-action lvl2">1.1 Html</a>
+  <a href="index.php#html" class="list-group-item list-group-item-action lvl2">1.1 HTML</a>
   <a href="index.php#css" class="list-group-item list-group-item-action lvl2">1.2 CSS</a>
 
     <a href="index.php#javascript" class="list-group-item list-group-item-action lvl2">1.3 JavaScript</a>
@@ -115,7 +115,7 @@
   
   <a href="index.php#SecurityVulnerabilities" class="list-group-item list-group-item-action">2. Lỗ hổng bảo mật</a>
   
-    <a href="index.php#htmlVulnerabilities" class="list-group-item list-group-item-action lvl2">2.1 Lỗ hổng Html</a>
+    <a href="index.php#htmlVulnerabilities" class="list-group-item list-group-item-action lvl2">2.1 Lỗ hổng HTML</a>
   <a href="index.php#CSSVulnerabilities" class="list-group-item list-group-item-action lvl2">2.2 Lỗ hổng CSS</a>
   <a href="index.php#JavaScriptVulnerabilities" class="list-group-item list-group-item-action lvl2">2.3 Lỗ hổng JavaScript </a>
     <a href="index.php#DatabaseVulnerabilities" class="list-group-item list-group-item-action lvl2">2.4 Lỗ hổng Cơ sở dữ liệu </a>
