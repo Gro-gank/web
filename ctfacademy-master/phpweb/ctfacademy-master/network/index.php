@@ -6,7 +6,7 @@
 				
 				<ol class="breadcrumb">
 				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
-				  <li class="breadcrumb-item active">Pháp Y Mạng</li>
+				  <li class="breadcrumb-item active">Điều Tra Mạng</li>
 				</ol>				
 
 
@@ -14,10 +14,10 @@
 				Vui lòng bật JavaScript trên trình duyệt của bạn. Để biết thêm, <a href="../other/enable_javascript.php">nhấn vào đây</a>.				
 				</noscript>
 
-<h3 id="NetworkForensics">1. Pháp Y Mạng</h3>
+<h3 id="NetworkForensics">1. Điều Tra Mạng</h3>
 
 
-<p>Pháp y mạng là quá trình phân tích dữ liệu mạng và hiện vật để xác định điều gì đã xảy ra trên mạng máy tính. Để hiểu đầy đủ về pháp y mạng, trước tiên chúng ta phải tìm hiểu về mạng máy tính và các giao thức mạng.</p>
+<p>Điều tra mạng là quá trình phân tích dữ liệu mạng và hiện vật để xác định điều gì đã xảy ra trên mạng máy tính. Để hiểu đầy đủ về điều tra mạng, trước tiên chúng ta phải tìm hiểu về mạng máy tính và các giao thức mạng.</p>
 
 
 
