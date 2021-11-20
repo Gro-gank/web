@@ -87,7 +87,7 @@
 			</li>
 
 			<li class="nav-item">
-				<a class="nav-link" href="../network/index.php">Pháp Y Mạng</a>
+				<a class="nav-link" href="../network/index.php">Điều Tra Mạng</a>
 			</li>								
 		</ul>
     </div>
@@ -111,7 +111,7 @@
   <a href="index.php#Ciphers" class="list-group-item list-group-item-action lvl2">1.1 Mật mã</a>
 
   
-  <a href="index.php#DigitalForensics" class="list-group-item list-group-item-action">2. Pháp y kỹ thuật số</a>
+  <a href="index.php#DigitalForensics" class="list-group-item list-group-item-action">2. Điều tra kỹ thuật số</a>
 
   <a href="index.php#Steganography" class="list-group-item list-group-item-action">3. Steganography</a>
   
