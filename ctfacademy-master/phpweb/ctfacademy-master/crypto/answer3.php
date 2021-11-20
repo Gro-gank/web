@@ -17,7 +17,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Thử thách 3 Lời giải: Mật mã</h3>
+<h3>Thử thách 3 Lời giải: Steganography</h3>
 
 <p>
 Có nhiều kỹ thuật mật mã được sử dụng để ẩn một tin nhắn trong một tin nhắn hoặc một tập tin khác. Trong bài học này, chúng ta đã tìm hiểu về kỹ thuật ẩn thư ở cuối tệp ảnh bằng cách nhập văn bản sau chữ ký “cuối tệp”. Kỹ thuật này có thể được sử dụng để gửi tin nhắn bị ẩn ngay trước mắt ta.
