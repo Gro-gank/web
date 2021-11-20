@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-			<title>ACT CTF Academy : Pháp Y Mạng</title>
-			<meta name="description" content="Pháp y mạng là quá trình phân tích dữ liệu mạng và hiện vật để xác định điều gì đã xảy ra trên mạng máy tính. Để hiểu đầy đủ về pháp y mạng, trước tiên chúng ta phải tìm hiểu về mạng máy tính và các giao thức mạng .">
+			<title>ACT CTF Academy : Điều Tra Mạng</title>
+			<meta name="description" content="Điều tra mạng là quá trình phân tích dữ liệu mạng và hiện vật để xác định điều gì đã xảy ra trên mạng máy tính. Để hiểu đầy đủ về điều tra mạng, trước tiên chúng ta phải tìm hiểu về mạng máy tính và các giao thức mạng .">
 			
 			<meta name="author" content="CTF Academy">			
 			<link href="../src/bootstrap/css/bootstrap.min.css" rel="stylesheet">	
@@ -87,7 +87,7 @@
 			</li>
 
 			<li class="nav-item">
-				<a class="nav-link" href="../network/index.php">Pháp Y Mạng</a>
+				<a class="nav-link" href="../network/index.php">Điều Tra Mạng</a>
 			</li>								
 		</ul>
     </div>
@@ -106,7 +106,7 @@
 
 <div class="list-group-flush myLightBox mb-4">
   <div class="list-group-item contents" >Danh Mục</div>
-    <a href="index.php#NetworkForensics" class="list-group-item list-group-item-action">1. Pháp Y Mạng</a>
+    <a href="index.php#NetworkForensics" class="list-group-item list-group-item-action">1. Điều Tra Mạng</a>
 
   <a href="index.php#ComputerNetworks" class="list-group-item list-group-item-action lvl2">1.1 Mạng máy tính</a>
 
