@@ -11,7 +11,7 @@
 				
 				<ol class="breadcrumb">
 				  <li class="breadcrumb-item"><a href="../../index.php">Trang chủ</a></li>
-				  <li class="breadcrumb-item"><a href="../index.php">Pháp Y Mạng</a></li>
+				  <li class="breadcrumb-item"><a href="../index.php">Điều Tra Mạng</a></li>
 				  <li class="breadcrumb-item active">Thử thách 1</li>
 				</ol>				
 
