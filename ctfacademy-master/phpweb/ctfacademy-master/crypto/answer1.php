@@ -17,7 +17,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Giải thích thử thách 1: Mật Mã</h3>
+<h3>Lời giải thử thách 1: Mật Mã</h3>
 
 <p>
 Mã hóa và tin nhắn mã hóa có thể là một phương pháp hiệu quả để gửi tin nhắn bí mật; tuy nhiên, mật mã được sử dụng phải rất phức tạp và khó giải mã để có hiệu quả. Trong bài học này, chúng ta đã tìm hiểu về một mật mã đơn giản được phát triển vào khoảng năm 50 trước Công nguyên cho Julius Caesar. Vào thời của nó, mật mã đủ phức tạp để bí mật chuyển tiếp các thông điệp, nhưng trong thế giới hiện đại, mật mã ROT rất yếu và ít cung cấp bí mật. Để có hiệu quả ngày nay, mật mã phải cực kỳ phức tạp và khó giải mã.
