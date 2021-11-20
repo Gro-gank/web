@@ -9,7 +9,7 @@
 				  <li class="breadcrumb-item"><a href="../../index.php">Trang chủ</a></li>
 				  <li class="breadcrumb-item"><a href="../index.php">Điều tra mạng</a></li>
 				  <li class="breadcrumb-item"><a href="index.php">Thử thách 1</a></li>
-				  <li class="breadcrumb-item active">Giải thích</li>
+				  <li class="breadcrumb-item active">Lời giải</li>
 				</ol>				
 
 
@@ -18,7 +18,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Thử thách 1 Giải thích: Để ý vào chi tiết</h3>
+<h3>Thử thách 1 Lời giải: Để ý vào chi tiết</h3>
 <p>Có thể phân tích lưu lượng mạng là một kỹ năng rất có giá trị đối với một chuyên gia an ninh mạng. Phân tích lưu lượng truy cập có thể cho phép người bảo vệ hệ thống mạng xác định người dùng độc hại đang làm gì và họ được kết nối với điểm cuối nào. Ngoài ra, nếu mạng máy tính bị nhiễm chương trình độc hại, việc phân tích lưu lượng mạng có thể giúp tìm ra máy tính bị nhiễm. Trong thử thách này, chúng tôi đã phân tích lưu lượng truy cập mạng của một người dùng truy cập trang web có gắn flag.</p>
 
 <p>Đầu tiên, mở tệp trong WireshakPortable bằng cách nhấp đúp vào tệp “WiresharkPortable.exe” có trong thư mục CTFA “Programs”.	</p>
