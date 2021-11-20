@@ -9,7 +9,7 @@
 				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
 				  <li class="breadcrumb-item"><a href="index.php">Mậ Mã Học</a></li>
 				  <li class="breadcrumb-item"><a href="index2.php">Thử thách 2</a></li>
-				  <li class="breadcrumb-item active">Giải thích</li>
+				  <li class="breadcrumb-item active">Lời giải</li>
 				</ol>				
 
 
@@ -18,7 +18,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Thử thách 2 Giải thích: Điều Tra</h3>
+<h3>Thử thách 2 Lời giải: Điều Tra</h3>
 
 <p>
 Điều tra mạng là một lĩnh vực quan trọng trong thế giới an ninh mạng. Thông qua điều tra, các nhà điều tra mạng có thể xác định và hiểu được các hành động và phương thức của tội phạm mạng. Các kỹ thuật điều tra của tệp bao gồm từ nhận dạng chữ ký tệp đến phân tích nhị phân phức tạp. Trong bài học trước, chúng ta đã học cách xác định các loại tệp thông qua việc kiểm tra chữ ký tệp.
