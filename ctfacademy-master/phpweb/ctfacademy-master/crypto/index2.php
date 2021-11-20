@@ -21,7 +21,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Thử thách 2: Pháp Y</h3>
+<h3>Thử thách 2: Điều Tra</h3>
 
 <p>
 Chúng tôi đã chặn một tệp chứa flag bí mật, nhưng chúng tôi dường như không thể mở tệp. Xem liệu bạn có thể xác định loại tệp thích hợp và mở tệp hay không.
