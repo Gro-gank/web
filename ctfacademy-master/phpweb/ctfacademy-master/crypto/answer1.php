@@ -8,7 +8,7 @@
 				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
 				  <li class="breadcrumb-item"><a href="index.php">Mật Mã Học</a></li>
 				  <li class="breadcrumb-item"><a href="index1.php">Thử thách 1</a></li>
-				  <li class="breadcrumb-item active">Giải thích</li>
+				  <li class="breadcrumb-item active">Lời giải</li>
 				</ol>				
 
 
