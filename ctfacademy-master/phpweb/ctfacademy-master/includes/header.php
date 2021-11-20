@@ -78,7 +78,7 @@
 					</li>
 
 					<li class="nav-item">
-						<a class="nav-link" href="network/index.php">Pháp Y Mạng</a>
+						<a class="nav-link" href="network/index.php">Điều Tra Mạng</a>
 					</li>
 				</ul>
 			</div>
