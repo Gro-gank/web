@@ -6,10 +6,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Network Forensics</a></li>
-				  <li class="breadcrumb-item"><a href="index2.php">Challenge 2</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Điều tra mạng</a></li>
+				  <li class="breadcrumb-item"><a href="index2.php">Thử thách 2</a></li>
+				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
 
