@@ -50,7 +50,7 @@
 						</span>						
 						<span class = "mainorange"> 
 						<a href="index.php">
-						Pháp Y Mạng
+						Điều Tra Mạng
 						</a>
 						</span>						
 						</h2>
