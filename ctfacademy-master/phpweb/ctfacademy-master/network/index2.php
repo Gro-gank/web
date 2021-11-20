@@ -10,9 +10,9 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Network Forensics</a></li>
-				  <li class="breadcrumb-item active">Challenge 2</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Điều tra mạng</a></li>
+				  <li class="breadcrumb-item active">Thử thách 2</li>
 				</ol>				
 
 
