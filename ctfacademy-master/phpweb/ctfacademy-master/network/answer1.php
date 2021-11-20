@@ -7,7 +7,7 @@
 				
 				<ol class="breadcrumb">
 				  <li class="breadcrumb-item"><a href="../../index.php">Trang chủ</a></li>
-				  <li class="breadcrumb-item"><a href="../index.php">Pháp y mạng</a></li>
+				  <li class="breadcrumb-item"><a href="../index.php">Điều tra mạng</a></li>
 				  <li class="breadcrumb-item"><a href="index.php">Thử thách 1</a></li>
 				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
