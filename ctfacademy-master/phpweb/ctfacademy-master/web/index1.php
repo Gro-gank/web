@@ -9,9 +9,9 @@
     <div id="main">
 
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-            <li class="breadcrumb-item"><a href="index.php">Web App Exploitation</a></li>
-            <li class="breadcrumb-item active">Challenge 1</li>
+            <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+            <li class="breadcrumb-item"><a href="index.php">Khai thác ứng dụng Web</a></li>
+            <li class="breadcrumb-item active">Thử thách 1</li>
         </ol>
 
 
@@ -20,27 +20,26 @@
         </noscript>
 
         <!-- Challenge Content Starts here -->
-        <h3>Challenge 1: Commit to Comments</h3>
+        <h3>Thử thách 1: Ghi chú</h3>
         <!-- Page developed by “Sir Code-a-lot” in April 2019 -->
         <p>
-            It looks like this page may have some useful information hiding in its source code. See if you can answer these questions and find the flag.
-        </p>
+        Có vẻ như trang này có thể có một số thông tin hữu ích ẩn trong mã nguồn của nó. Hãy xem bạn có thể trả lời những câu hỏi này không và tìm thấy lá cờ.        </p>
         <!-- To-Do: Make the “Admin.html” page and uncomment this link
-<a href="Admin.html"> Click here for the Admin page!</a> -->
+        <a href="Admin.html"> Click here for the Admin page!</a> -->
 
         <p>
-            <b>Hint:</b> Right click the page and select “View Page Source” or input “Ctrl+U” to view the HTML code and find the comments!
+            <b>Gợi ý:</b> Nhấp chuột phải vào trang và chọn “View page source” hoặc nhập “Ctrl + U” để xem mã HTML và tìm nhận xét!
         </p>
         <!-- Great Job! Here’s your flag: ctfa{Quest_for_Comments} -->
         <p>
-            <b>Question 1:</b> What is the developer’s nickname?
+            <b>Câu hỏi 1:</b> Biệt danh của nhà phát triển là gì?
         </p>
 
         <!-- Q1 input form -->
         <div class="mySignInBox myLightBox my-4">
             <form class="text-center" novalidate>
                 <div class="mySignIn p-2">
-                    <p class="h4">Question 1</p>
+                    <p class="h4">Câu hỏi 1</p>
                 </div>
                 <div class="mySignInFields p-4">
                     <div class="mb-3">
@@ -49,7 +48,7 @@
                     </div>
 
                     <!-- Submit button -->
-                    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id="submit1" type="button">Submit</button>
+                    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id="submit1" type="button">Nộp</button>
 
                 </div>
             </form>
@@ -59,14 +58,14 @@
 
 
         <p>
-            <b>Question 2:</b> What month of the year was this webpage written in?
+            <b>câu hỏi 2:</b> Trang web này được viết vào tháng mấy trong năm?
         </p>
 
         <!-- Q2 input form -->
         <div class="mySignInBox myLightBox my-4">
             <form class="text-center" novalidate>
                 <div class="mySignIn p-2">
-                    <p class="h4">Question 2</p>
+                    <p class="h4">Câu hỏi 2</p>
                 </div>
                 <div class="mySignInFields p-4">
                     <div class="mb-3">
@@ -75,7 +74,7 @@
                     </div>
 
                     <!-- Submit button -->
-                    <button onclick="q2()" class="btn btn-mybutton btn-block mb-2" id="submit2" type="button">Submit</button>
+                    <button onclick="q2()" class="btn btn-mybutton btn-block mb-2" id="submit2" type="button">Nộp</button>
 
                 </div>
             </form>
@@ -83,14 +82,14 @@
         <!-- Flag form End -->
 
         <p>
-            <b>Question 3:</b> What is the name of the webpage that the developer has not finished making (and therefore not linked to)?
+            <b>Câu hỏi 3:</b> Tên của trang web mà nhà phát triển chưa hoàn thành (và do đó chưa được liên kết) là gì?
         </p>
 
         <!-- Q3 input form -->
         <div class="mySignInBox myLightBox my-4">
             <form class="text-center" novalidate>
                 <div class="mySignIn p-2">
-                    <p class="h4">Question 3</p>
+                    <p class="h4">Câu hổi 3</p>
                 </div>
                 <div class="mySignInFields p-4">
                     <div class="mb-3">
@@ -99,7 +98,7 @@
                     </div>
 
                     <!-- Submit button -->
-                    <button onclick="q3()" class="btn btn-mybutton btn-block mb-2" id="submit3" type="button">Submit</button>
+                    <button onclick="q3()" class="btn btn-mybutton btn-block mb-2" id="submit3" type="button">Nộp</button>
 
                 </div>
             </form>
@@ -109,14 +108,14 @@
         <!-- Challenge Content Ends here -->
 
         <p>
-            <b>Challenge 1:</b> Find the flag and input the answer.
+            <b>Thử thách 1:</b> Tìm lá cờ và nhập câu trả lời.
         </p>
 
         <!-- Flag input form -->
         <div class="mySignInBox myLightBox my-4">
             <form class="text-center" novalidate>
                 <div class="mySignIn p-2">
-                    <p class="h4">Input Flag</p>
+                    <p class="h4">Nhập cờ</p>
                 </div>
                 <div class="mySignInFields p-4">
                     <div class="mb-3">
@@ -125,7 +124,7 @@
                     </div>
 
                     <!-- Submit button -->
-                    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id="submit" type="button">Submit</button>
+                    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id="submit" type="button">Nộp</button>
 
                 </div>
             </form>
@@ -135,7 +134,7 @@
 
 
         <div id="backToTop" class="my-3">
-            <a href="#top">Back to Top</a>
+            <a href="#top">Về đầu trang</a>
             <!-- Takes user to top of home page -->
         </div>
 

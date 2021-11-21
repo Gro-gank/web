@@ -10,9 +10,9 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Web App Exploitation</a></li>
-				  <li class="breadcrumb-item active">Challenge 3</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Khai thác ứng dụng Web</a></li>
+				  <li class="breadcrumb-item active">Thử thách 3</li>
 				</ol>				
 
 
@@ -21,16 +21,15 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 3: SQL (High Difficulty)</h3>
+<h3>Thử thách 3: SQL (Độ khó cao)</h3>
 
 <p>
-For this challenge, you will need to log in again as the site administrator, but this time he changed his password and is now using a SQL database to store his password. Use what you’ve learned so far to login and get the flag.
-</p>
+Đối với thử thách này, bạn sẽ cần đăng nhập lại với tư cách quản trị viên trang web, nhưng lần này anh ấy đã thay đổi mật khẩu và hiện đang sử dụng cơ sở dữ liệu SQL để lưu trữ mật khẩu của mình. Sử dụng những gì bạn đã học cho đến nay để đăng nhập và nhận cờ.</p>
 
 
 
 <p>
-<b>Hint:</b> the administrator’s username is the same as in the last challenge, only his password has changed.
+<b>Gợi ý:</b> tên người dùng của quản trị viên giống như trong thử thách trước, chỉ có điều mật khẩu của anh ta đã thay đổi.
 </p>
 
 <!-- Sign in form -->
@@ -39,20 +38,20 @@ For this challenge, you will need to log in again as the site administrator, but
 <form class="text-center">
 <div class = "mySignIn p-2">
 	
-    <p class="h4">Sign in</p>
+    <p class="h4">Đăng nhập</p>
 	
 </div>
 	
 <div class = "mySignInFields p-4">
 
 <div class="mb-3"> 
-    <input type="text" id="username" class="form-control mb-3" placeholder="Username" required>
+    <input type="text" id="username" class="form-control mb-3" placeholder="Tên người dùng" required>
 	
-    <input type="password" id="password" class="form-control mb-1" placeholder="Password" required>
+    <input type="password" id="password" class="form-control mb-1" placeholder="Mật khẩu" required>
 	
 	<span id="loginFeedback"></span>
 </div>
-    <button onclick="buttonFunction()" class="btn btn-mybutton btn-block mb-2" id = "signin" type="button">Sign in</button>
+    <button onclick="buttonFunction()" class="btn btn-mybutton btn-block mb-2" id = "signin" type="button">Đăng nhập</button>
 </div>
 </form>
 </div>
@@ -67,11 +66,10 @@ For this challenge, you will need to log in again as the site administrator, but
 
 
 <p>
-<b>Question 1:</b> Here is an example of what the SQL command used by this login might look like: “SELECT password FROM passwordTable _______ password = userInput”
+<b>Câu hỏi 1:</b> Đây là một ví dụ về lệnh SQL được sử dụng bởi thông tin đăng nhập này có thể trông giống như sau:  “SELECT password FROM passwordTable _______ password = userInput”
 </p>
 <p>
-Fill in the blank with the correct SQL syntax.
-</p>
+Điền vào chỗ trống với cú pháp SQL chính xác.</p>
 
 
 
@@ -79,7 +77,7 @@ Fill in the blank with the correct SQL syntax.
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 1</p>	
+    <p class="h4">Câu hỏi 1</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -88,7 +86,7 @@ Fill in the blank with the correct SQL syntax.
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Submit</button>
+    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Nộp</button>
 
     </div>
 </form>
@@ -96,14 +94,14 @@ Fill in the blank with the correct SQL syntax.
 <!-- Flag form End -->
 
 <p>
-<b>Challenge 3:</b> Find the flag and input the answer.
+<b>Thử thách 3:</b>  Tìm lá cờ và nhập câu trả lời.
 </p>
 
 <!-- Flag input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Input Flag</p>	
+    <p class="h4">Nhập cở</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -112,7 +110,7 @@ Fill in the blank with the correct SQL syntax.
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Submit</button>
+    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Nộp</button>
 
     </div>
 </form>
@@ -122,7 +120,7 @@ Fill in the blank with the correct SQL syntax.
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

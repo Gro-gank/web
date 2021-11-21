@@ -9,9 +9,9 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Web App Exploitation</a></li>
-				  <li class="breadcrumb-item active">Challenge 2</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Khai thác ứng dụng Web</a></li>
+				  <li class="breadcrumb-item active">Thử thách 2</li>
 				</ol>				
 
 
@@ -20,14 +20,13 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 2: Cup of JavaScript</h3>
+<h3>Thử thách 2: JavaScript</h3>
 
 <p>
-For this challenge you will need to find the site administrator’s username and password; log in to get the flag.
-</p>
+Đối với thử thách này, bạn sẽ cần phải tìm tên người dùng và mật khẩu của quản trị viên trang web; đăng nhập để lấy cờ.</p>
 
 <p>
-<b>Hint:</b> The login form is processed with JavaScript; remember what you learned earlier in this module about JavaScript logins.
+<b>Gợi ý:</b> Biểu mẫu đăng nhập được xử lý bằng JavaScript; nhớ những gì bạn đã học trước đó trong mô-đun này về thông tin đăng nhập JavaScript.
 </p>
 
 <!-- Sign in form -->
@@ -109,20 +108,20 @@ else {
 <form class="text-center">
 <div class = "mySignIn p-2">
 	
-    <p class="h4">Sign in</p>
+    <p class="h4">Đăng nhập</p>
 	
 </div>
 	
 <div class = "mySignInFields p-4">
 
 <div class="mb-3"> 
-    <input type="text" id="username" class="form-control mb-3" placeholder="Username" required>
+    <input type="text" id="username" class="form-control mb-3" placeholder="Tên người dùng" required>
 	
-    <input type="password" id="password" class="form-control mb-1" placeholder="Password" required>
+    <input type="password" id="password" class="form-control mb-1" placeholder="Mật khẩu" required>
 	
 	<span id="loginFeedback"></span>
 </div>
-    <button onclick="buttonFunction()" class="btn btn-mybutton btn-block mb-2" id = "signin" type="button">Sign in</button>
+    <button onclick="buttonFunction()" class="btn btn-mybutton btn-block mb-2" id = "signin" type="button">Đăng nhập</button>
 </div>
 </form>
 </div>
@@ -136,14 +135,14 @@ else {
 </div>
 
 <p>
-<b>Question 1:</b> What is the administrator’s username?
+<b>Câu hỏi 1:</b> Tên người dùng của quản trị viên là gì?
 </p>
 
 <!-- Q1 input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 1</p>	
+    <p class="h4">Câu hỏi 1</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -152,7 +151,7 @@ else {
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Submit</button>
+    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Nộp</button>
 
     </div>
 </form>
@@ -162,14 +161,14 @@ else {
 
 
 <p>
-<b>Question 2:</b> What is the administrator’s password?
+<b>Câu hỏi 2:</b> Mật khẩu của quản trị viên là gì?
 </p>
 
 <!-- Q2 input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 2</p>	
+    <p class="h4">Câu hỏi 2</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -178,7 +177,7 @@ else {
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="q2()" class="btn btn-mybutton btn-block mb-2" id = "submit2" type="button">Submit</button>
+    <button onclick="q2()" class="btn btn-mybutton btn-block mb-2" id = "submit2" type="button">Nộp</button>
 
     </div>
 </form>
@@ -189,7 +188,7 @@ else {
 <!-- Challenge Content Ends here -->
 
 <p>
-<b>Challenge 2:</b> Find the flag and input the answer.
+<b>Thử thách 2:</b> Tìm lá cờ và nhập câu trả lời.
 </p>
 
 <!-- Flag input form -->
@@ -205,7 +204,7 @@ else {
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Submit</button>
+    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Nộp</button>
 
     </div>
 </form>
@@ -215,7 +214,7 @@ else {
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

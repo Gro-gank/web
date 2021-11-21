@@ -6,10 +6,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Web App Exploitation</a></li>
-				  <li class="breadcrumb-item"><a href="index1.php">Challenge 1</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Khai thác ứng dụng Web</a></li>
+				  <li class="breadcrumb-item"><a href="index1.php">Thử thách 1</a></li>
+				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
 
@@ -18,18 +18,16 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 1 Explanation: Commit to Comments</h3>
+<h3>Giải thích thử thách 1 : Ghi chú</h3>
 
 <p>
-When developing or securing a web page, you should always check for comments in the HTML source left by developers. Sometimes, HTML comments pose no security risk, such as comments denoting page sections; however, some comments, such as those commenting out incomplete or insecure web page functions, can compromise the security of the web page. The answers to this challenge can be found in the comments in the challenge’s web page source.
-</p>
+Khi phát triển hoặc bảo mật một trang web, bạn phải luôn kiểm tra các comment (ghi chú) trong nguồn HTML do các nhà phát triển để lại. Đôi khi, các ghi chú HTML không gây rủi ro bảo mật, chẳng hạn như các ghi chú biểu thị các phần của trang; tuy nhiên, một số ghi chú, chẳng hạn như những ghi chú về các chức năng của trang web không đầy đủ hoặc không an toàn, có thể ảnh hưởng đến tính bảo mật của trang web. Câu trả lời cho thử thách này có thể được tìm thấy trong các ghi chú trong nguồn trang web của thử thách.</p>
 
 <p>
-Below is a step-by-step guide of how to answer the questions and complete the challenge.
-</p>
+Dưới đây là hướng dẫn từng bước về cách trả lời các câu hỏi và hoàn thành thử thách.</p>
 
 <p>
-Begin by right-clicking on the page and selecting “View Page Source.”
+Bắt đầu bằng cách nhấp chuột phải vào trang và chọn “View Page Source.”- Xem nguồn trang
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -37,33 +35,31 @@ Begin by right-clicking on the page and selecting “View Page Source.”
 </div>
 
 <p>
-Next, look through the page’s source for any comments of interest. For this challenge, there are several interesting comments grouped together as seen below.
-</p>
+Tiếp theo, xem qua nguồn của trang để biết bất kỳ ghi chú nào bạn quan tâm. Đối với thử thách này, có một số ghi chú thú vị được nhóm lại với nhau như hình dưới đây.</p>
 
 <div class="screenshot myLightBox my-3">
 		<img src="challenge1/web1.2.JPG" alt="Explanation Screenshot 2">
 </div>
 
 <p>
-The answer to the first question can be found on line 161 in the page source. As seen in the above screenshot, the answer is “Sir Code-a-lot”.
+Câu trả lời cho câu hỏi đầu tiên có thể được tìm thấy ở dòng 161 trong nguồn trang. Như đã thấy trong ảnh chụp màn hình ở trên, câu trả lời là “Sir Code-a-lot”.
 </p>
 
 <p>
-The answer to question 2 can be found on the same line as the answer to question 1; the answer is “April”.
+Câu trả lời cho câu hỏi 2 có thể được tìm thấy trên cùng một dòng với câu trả lời cho câu hỏi 1; câu trả lời là “April”- tháng tư.
 </p>
 
 <p>
-The answer to question 3 can be found on lines 165 and 166 of the page’s source. As we can see, the developer made a note that the “Admin.phpl” page is not complete; however, the developer created a link to the page and commented out the link. 
-</p>
+Câu trả lời cho câu hỏi 3 có thể được tìm thấy ở dòng 165 và 166 của nguồn của trang. Như chúng ta có thể thấy, nhà phát triển đã lưu ý rằng trang “Admin.html” chưa hoàn chỉnh; tuy nhiên, nhà phát triển đã tạo một liên kết đến trang và nhận xét về liên kết.</p>
 
 <p>
-The flag is found on line 171 of the page’s source.
+Cờ được tìm thấy trên dòng 171 của nguồn của trang.
 </p>
 
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

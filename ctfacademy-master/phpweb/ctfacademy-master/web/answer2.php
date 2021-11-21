@@ -6,10 +6,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index1.php">Web App Exploitation</a></li>
-				  <li class="breadcrumb-item"><a href="index2.php">Challenge 2</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index1.php">Khai thác ứng dụng Web</a></li>
+				  <li class="breadcrumb-item"><a href="index2.php">Thử thách 2 2</a></li>
+				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
 
@@ -18,18 +18,17 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 2 Explanation: Cup of JavaScript</h3>
+<h3>Giải thích thử thách 2: JavaScript</h3>
 
 <p>
-Using JavaScript for client-side login pages is a very insecure practice; doing so can lead to exposing the usernames and passwords. Because the login form in Challenge 2 is processed client-side, you can view the source code and find the administrator’s password. When building a secure web application, you should always store and process login information on the web server, not on the client’s browser. 
+Sử dụng JavaScript cho các trang đăng nhập phía máy khách là một thực tiễn rất không an toàn; làm như vậy có thể dẫn đến việc lộ tên người dùng và mật khẩu. Vì biểu mẫu đăng nhập trong Thử thách 2 được xử lý phía máy khách nên bạn có thể xem mã nguồn và tìm mật khẩu của quản trị viên. Khi xây dựng một ứng dụng web an toàn, bạn phải luôn lưu trữ và xử lý thông tin đăng nhập trên máy chủ web, không phải trên trình duyệt của khách hàng.
 </p>
 
 <p>
-Below is a step-by-step guide of how to answer the questions and complete the challenge.
-</p>
+Dưới đây là hướng dẫn từng bước về cách trả lời các câu hỏi và hoàn thành thử thách.</p>
 
 <p>
-Much like the previous challenge, we begin by viewing the page source. Right-click on the page and select “View page source.”
+Giống như thử thách trước, chúng tôi bắt đầu bằng cách xem nguồn trang. Nhấp chuột phải vào trang và chọn “View page source.”-Xem nguồn trang
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -37,7 +36,7 @@ Much like the previous challenge, we begin by viewing the page source. Right-cli
 </div>
 
 <p>
-Viewing the page source allows us to see the JavaScript function that handles signing in. On line 170, we see a comment indicating the beginning of the sign-in function; this is where we will focus our investigation. 
+Xem nguồn trang cho phép chúng tôi xem hàm JavaScript xử lý việc đăng nhập. Ở dòng 170, chúng tôi thấy một chú thích cho biết sự bắt đầu của hàm đăng nhập; đây là nơi chúng tôi sẽ tập trung điều tra.
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -45,7 +44,7 @@ Viewing the page source allows us to see the JavaScript function that handles si
 </div>
 
 <p>
-On line 171, we see that the “buttonFunction()” starts. This is the function that processes the sign-in. On lines 181 and 183, we can see the username and password of the administrator, “admin” and “SuperSecretPassword.”
+Trên dòng 171, chúng ta thấy rằng “buttonFunction ()” bắt đầu. Đây là chức năng xử lý đăng nhập. Trên dòng 181 và 183, chúng ta có thể thấy tên người dùng và mật khẩu của quản trị viên, "admin" và "SuperSecretPassword."
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -53,11 +52,11 @@ On line 171, we see that the “buttonFunction()” starts. This is the function
 </div>
 
 <p>
-On line 262, the “buttonFunction()” is called when a user clicks on the sign-in button. 
+Trên dòng 262, “buttonFunction ()” được gọi khi người dùng nhấp vào nút đăng nhập.
 </p>
 
 <p>
-To complete this challenge, enter the username and password we found in the source and click “Sign In” and the flag will be displayed.
+Để hoàn thành thử thách này, hãy nhập tên người dùng và mật khẩu mà chúng tôi tìm thấy trong nguồn và nhấp vào “Đăng nhập” và cờ sẽ được hiển thị.
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -67,7 +66,7 @@ To complete this challenge, enter the username and password we found in the sour
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

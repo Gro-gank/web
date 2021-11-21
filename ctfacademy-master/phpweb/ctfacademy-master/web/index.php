@@ -4,8 +4,8 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item active">Web App Exploitation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item active">Khai thác ứng dụng Web</li>
 				</ol>				
 
 
@@ -13,14 +13,13 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="../other/enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3 id="WebAppExploitation">1. Web App Exploitation</h3>
+<h3 id="WebAppExploitation">1. Khai thác ứng dụng Web</h3>
 <p>
-Web pages, just like the one you are reading now, are generally made of three components, HTML, CSS, and JavaScript. Each of these components has a different role in providing the formatting and functions of a webpage. The structure of a webpage can be compared to a human body: HTML is the bone structure, CSS is the appearance, and JavaScript is the muscles.
-</p>
+Các trang web, giống như trang bạn đang đọc bây giờ, thường được tạo từ các thành phần: PHP(HTML), CSS và JavaScript. Mỗi thành phần này có vai trò khác nhau trong việc cung cấp định dạng và chức năng của trang web. Cấu trúc của một trang web có thể được so sánh với cơ thể con người: HTML là cấu trúc xương, CSS là hình thức bên ngoài và JavaScript là cơ bắp.</p>
 
 <h4 id="html">1.1 HTML</h4>
 <p>
-HTML is the backbone of a webpage; it gives the page its general structure. HTML stands for Hyper-Text Markup Language. HTML is used to determine how the webpage will be displayed. HTML “tags” are used to mark how the page should be structured. For example, this paragraph is marked with “p” tags, which tells the browser to show this text as a paragraph. HTML tags are enclosed in angle brackets (&lt; &gt;). Here is a sample of how a simple HTML page is structured:
+HTML là xương sống của một trang web; nó cung cấp cho trang cấu trúc chung của nó. HTML là viết tắt của Hyper-Text Markup Language. HTML được sử dụng để xác định cách trang web sẽ được hiển thị. “Thẻ” HTML được sử dụng để đánh dấu cách cấu trúc trang. Ví dụ: đoạn văn này được đánh dấu bằng thẻ “p”, thẻ này yêu cầu trình duyệt hiển thị văn bản này dưới dạng một đoạn văn. Các thẻ HTML được đặt trong dấu ngoặc nhọn (<>). Đây là một ví dụ về cách một trang HTML đơn giản được cấu trúc:
 </p>
 
 <div class="htmlExample myLightBox py-4 px-1 my-3">
@@ -56,7 +55,7 @@ HTML is the backbone of a webpage; it gives the page its general structure. HTML
 
 
 <p>
-You can view the HTML source of a webpage in most internet browsers. For Google Chrome, you can right-click the page and select “View Page Source” or use “Ctrl+U.” This will bring up the page's HTML source code. Try right clicking on this page to test this out.
+Bạn có thể xem nguồn HTML của một trang web trong hầu hết các trình duyệt internet. Đối với Google Chrome, bạn có thể nhấp chuột phải vào trang và chọn “Xem nguồn trang” hoặc sử dụng “Ctrl + U”. Thao tác này sẽ hiển thị mã nguồn HTML của trang. Hãy thử nhấp chuột phải vào trang này để kiểm tra điều này.
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -65,7 +64,7 @@ You can view the HTML source of a webpage in most internet browsers. For Google 
  
 <h4  id="css">1.2 CSS</h4>
 <p>
-CSS determines the appearance of the webpage, much like a person's hair or clothes can change their appearance. CSS stands for Cascading Style Sheet and is a style language used to change and customize the look of HTML pages. CSS can be either included in an HTML file, by using a special tag, or by including the CSS as a separate file, which is more common. If the CSS is included in a file, it will be linked in the page's HTML source. It should look like this: <span class="tag">&lt;</span><span class="htmlColor">link href=</span><span class="tag">&quot;</span><span class="htmlColor">../style.css</span><span class="tag">&quot;</span> <span class="htmlColor">rel=</span><span class="tag">&quot;</span><span class="htmlColor">stylesheet</span><span class="tag">&quot;</span> <span class="htmlColor">/</span><span class="tag">&gt;</span>. See if you can view the CSS of this page.
+CSS xác định giao diện của trang web, giống như tóc hoặc quần áo của một người có thể thay đổi diện mạo của họ. CSS là viết tắt của Cascading Style Sheet và là một ngôn ngữ kiểu được sử dụng để thay đổi và tùy chỉnh giao diện của các trang HTML. CSS có thể được bao gồm trong một tệp HTML, bằng cách sử dụng một thẻ đặc biệt hoặc bằng cách bao gồm CSS dưới dạng một tệp riêng biệt, điều này phổ biến hơn. Nếu CSS được bao gồm trong một tệp, nó sẽ được liên kết trong nguồn HTML của trang. Nó sẽ giống như sau: < link href = " ../style.css " rel = " stylesheet " / > . Xem liệu bạn có thể xem CSS của trang này không.
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -74,12 +73,12 @@ CSS determines the appearance of the webpage, much like a person's hair or cloth
 
 <h4  id="javascript">1.3 JavaScript</h4>
 <p>
-JavaScript provides a webpage with much of its functionality, similar to how a person's muscles allow them to move and function. JavaScript is a programming language used throughout the web to do just about anything from login functions to interactive games. Like CSS, JavaScript can be either included as a separate file or in the HTML file itself by using a special “&lt;script&gt;” tag.
+JavaScript cung cấp một trang web với nhiều chức năng của nó, tương tự như cách cơ bắp của một người cho phép chúng di chuyển và hoạt động. JavaScript là một ngôn ngữ lập trình được sử dụng trên toàn bộ web để thực hiện bất kỳ điều gì từ các chức năng đăng nhập đến các trò chơi tương tác. Giống như CSS, JavaScript có thể được bao gồm dưới dạng một tệp riêng biệt hoặc trong chính tệp HTML bằng cách sử dụng thẻ “&lt;script&gt;” đặc biệt.
 </p>
 
 
 <p>
-Here is an example of a simple JavaScript login form:
+Đây là một ví dụ về biểu mẫu đăng nhập JavaScript đơn giản:
 </p>
 
 <div class = "mySignInBox myLightBox my-3">
@@ -87,74 +86,73 @@ Here is an example of a simple JavaScript login form:
 <form class="text-center">
 <div class = "mySignIn p-2">
 	
-    <p class="h4">Sign in</p>
+    <p class="h4">Đăng nhập</p>
 	
 </div>
 	
 <div class = "mySignInFields p-4 ">
-    <input type="text" id="username" class="form-control mb-4" placeholder="Username" required>
-    <input type="password" id="password" class="form-control mb-4" placeholder="Password" required>
-    <button class="btn btn-mybutton btn-block mb-2" id = "signin" type="button">Sign in</button>
+    <input type="text" id="username" class="form-control mb-4" placeholder="Tên tài khoản " required>
+    <input type="password" id="password" class="form-control mb-4" placeholder="Mật khẩu " required>
+    <button class="btn btn-mybutton btn-block mb-2" id = "signin" type="button">Đăng nhập</button>
 </div>
 </form>
 </div>
 
-<h4  id="database">1.4 Databases</h4>
+<h4  id="database">1.4 Cơ sở dữ liệu</h4>
 <p>
-In addition to these three main components of a webpage, databases can be used to provide additional functionality and information storage. To continue the analogy of a webpage being like a person, a database is akin to the human mind in that both store information for later access. Databases are usually separate from the webpage itself, but the two interact to store and retrieve data. The general structure of a database consists of “Columns,” "Rows,” and “Tables.” A row consists of one or more columns. Rows are entries of data in the database, and a collection of rows and columns are contained in a table. There are many different types of databases; the type we will be focusing on is called SQL (pronounced “sequel”). SQL stands for Structured Query Language and is the most popular database language. SQL databases, much like other computer applications, use a programing language to receive commands. The main <a href="../other/glossary.php#syntax" target="_blank">syntax</a> statements to understand for this lesson are the “<b>SELECT</b>,” “<b>FROM</b>,” and “<b>WHERE</b>” statements. As their names suggest, the “<b>SELECT</b>” command tells the database to select or retrieve something from a table. The “<b>FROM</b>” statement tells the database which table to select from. Finally, the “<b>WHERE</b>” statement tells the database the condition in which to retrieve the specified information; if the “<b>WHERE</b>” statement is true, the database retrieves the requested information, if not the database retrieves nothing. These three statements can form a command such as “<b>SELECT row FROM table WHERE column value = 'example value</b>'”. 
+Ngoài ba thành phần chính này của trang web, cơ sở dữ liệu có thể được sử dụng để cung cấp thêm chức năng và lưu trữ thông tin. Để tiếp tục ví trang web giống như một con người, cơ sở dữ liệu giống với tâm trí con người ở chỗ cả hai đều lưu trữ thông tin để truy cập sau này. Cơ sở dữ liệu thường tách biệt với chính trang web, nhưng cả hai tương tác để lưu trữ và truy xuất dữ liệu. Cấu trúc chung của cơ sở dữ liệu bao gồm “Cột”, “Hàng” và “Bảng”. Một hàng bao gồm một hoặc nhiều cột. Hàng là các mục nhập dữ liệu trong cơ sở dữ liệu và một tập hợp các hàng và cột được chứa trong một bảng. Có nhiều loại cơ sở dữ liệu khác nhau; loại chúng ta sẽ tập trung vào được gọi là SQL ( phát âm là "phần tiếp theo"). SQL là viết tắt của Ngôn ngữ truy vấn có cấu trúc và là ngôn ngữ cơ sở dữ liệu phổ biến nhất. Cơ sở dữ liệu SQL, giống như các ứng dụng máy tính khác, sử dụng ngôn ngữ lập trình để nhận lệnh. Các câu lệnh <a href="../other/glossary.php#syntax" target="_blank">cú pháp </a> chính cần hiểu cho bài học này là các câu lệnh “<b>SELECT</b>,” “<b>FROM</b>,” and “<b>WHERE</b>”. Như tên của nó thể hiện, câu lệnh “<b>SELECT</b>” cho cơ sở dữ liệu biết để chọn hoặc lấy một thứ gì đó từ bảng. Lệnh “<b>FROM</b>” cho cơ sở dữ liệu biết bảng cần chọn. Cuối cùng, lệnh “<b>WHERE</b>” cho cơ sở dữ liệu biết điều kiện để truy xuất thông tin được chỉ định; nếu câu lệnh “<b>WHERE</b>” là đúng, cơ sở dữ liệu sẽ truy xuất thông tin được yêu cầu, nếu không, cơ sở dữ liệu sẽ không lấy gì. Ba câu lệnh này có thể tạo thành một lệnh, chẳng hạn như  “<b>SELECT hàng FROM bẳng WHERE cột giá trị = 'example value</b>'”. 
+</p>                    
+
+<p>
+Sau đây là lệnh ví dụ để truy cập dữ liệu từ cơ sở dữ liệu có chứa bảng “userTable”, hàng “userEmails” và cột “tên người dùng”: “<b>SELECT userEmails FROM userTable WHERE username = 'jane</b>'” 
 </p>
 
 <p>
-The following is an example command to access data from a database that contains a “userTable” table, a “userEmails” row, and a “username” column: “<b>SELECT userEmails FROM userTable WHERE username = 'jane</b>'” 
+Câu lệnh này ra lệnh cho cơ sở dữ liệu truy xuất các email từ “userTable” cho tên người dùng “jane.”
 </p>
 
+<h3 id="SecurityVulnerabilities">2. Lỗ hổng bảo mật</h3>
 <p>
-This statement commands the database to retrieve the emails from the “userTable” for the username “jane.”
+Bây giờ chúng ta đã quen thuộc với bốn thành phần chính của ứng dụng web, HTML, CSS, JavaScript và Cơ sở dữ liệu, chúng ta có thể bắt đầu tìm hiểu về các mối quan tâm về bảo mật liên quan đến từng thành phần. Nơi đầu tiên mà người đánh giá bảo mật nên bắt đầu khi đánh giá tính bảo mật của một ứng dụng web là tự làm quen với ứng dụng đó và xem mã nguồn cho HTML, CSS và JavaScript. Ngoài ra, điều quan trọng là phải đánh giá bất kỳ tương tác nào liên quan đến cơ sở dữ liệu.
 </p>
 
-<h3 id="SecurityVulnerabilities">2. Security Vulnerabilities</h3>
+<h4  id="HTMLVulnerabilities">2.1 Lỗ hổng HTML</h4>
 <p>
-Now that we are familiar with the four main components of a web application, HTML, CSS, JavaScript, and Databases, we can begin to learn about the security concerns associated with each component. The first place a security assessor should start when evaluating the security of a web application is to familiarize yourself with the application and view the source code for the HTML, CSS, and JavaScript. Additionally, it is important to evaluate any interactions involving a database.
+Có một số điều cần xem xét khi đánh giá tính bảo mật của HTML. Điều số một cần tìm là nhận xét mã do nhà phát triển trang để lại. Đôi khi các lập trình viên web sẽ viết ghi chú cho chính họ dưới dạng comment (ghi chú) trong mã của trang web. Những comment này có thể cung cấp rất nhiều thông tin về trang web, chẳng hạn như các phần chưa hoàn thiện của trang có thể dễ bị tấn công hoặc tên người dùng và mật khẩu của nhà phát triển.</p>
+
+<h4  id="CSSVulnerabilities">2.2 Lỗ hổng CSS</h4>
+<p>
+CSS đặt ra rất ít mối quan tâm về bảo mật vì nó chỉ thêm phong cách cho trang web. Đôi khi, các tệp CSS có thể tiết lộ thông tin về nhà phát triển, chẳng hạn như địa chỉ email; tuy nhiên, hầu hết thông tin có trong nhận xét tệp CSS đều có thể truy cập được ở những nơi khác.
 </p>
 
-<h4  id="HTMLVulnerabilities">2.1 HTML Vulnerabilities</h4>
+<h4  id="JavaScriptVulnerabilities">2.3 Lỗ hổng JavaScript </h4>
 <p>
-There are a few things to consider when assessing the security of HTML. The number one thing to look for is code comments left by the page developer. Sometimes web programmers will write notes to themselves as comments in the web page's code. These comments can provide a great deal of information about the webpage, such as incomplete parts of a page that may be vulnerable or usernames and passwords of the developer.
+Trong ba yếu tố chính của một trang web, JavaScript gây ra rủi ro bảo mật đáng kể nhất. Bởi vì JavaScript được sử dụng để cung cấp cho một chức năng của trang web, đôi khi nó có thể bị người dùng độc hại sử dụng sai hoặc bị thay đổi để thực hiện một hành động trái phép. Ngoài ra, các hàm JavaScript được sử dụng để xác thực biểu mẫu; nghĩa là một hàm JavaScript được sử dụng để xử lý đăng nhập hoặc giới hạn đầu vào vào biểu mẫu. Do đó, chuyên gia bảo mật nên kiểm tra các chức năng JavaScript không an toàn khi đánh giá một trang web hoặc ứng dụng. Đôi khi, trong các biểu mẫu đăng nhập JavaScript đơn giản, tên người dùng và mật khẩu được viết bằng <a href="../other/glossary.php#plaintext" target="_blank">văn bản thô</a> trong hàm; hãy đảm bảo kiểm tra bất kỳ biểu mẫu đăng nhập nào <a href="../other/glossary.php#clientside" target="_blank">đang được xử lý bên máy khách</a>.
 </p>
 
-<h4  id="CSSVulnerabilities">2.2 CSS Vulnerabilities</h4>
+<h4  id="DatabaseVulnerabilities">2.4 Lỗ hổng Cơ sỡ dữ liệu </h4>
 <p>
-CSS poses very few security concerns because it merely adds style to a webpage. On occasions CSS files may disclose information about the developer, such as an email address; however, most information that would be contained in a CSS file comment is likely accessible elsewhere.
-</p>
-
-<h4  id="JavaScriptVulnerabilities">2.3 JavaScript Vulnerabilities</h4>
-<p>
-Of the three main elements of a webpage, JavaScript poses the most significant security risk. Because JavaScript is used to give a webpage function, it can sometimes be misused or altered by a malicious user to perform an unauthorized action. Additionally, JavaScript functions are used for form validation; meaning that a JavaScript function is used to process a login or limit input into a form. Therefore, a security specialist should check for insecure JavaScript functions when assessing a webpage or application. Sometimes, in simple JavaScript login forms, the username and password are written in <a href="../other/glossary.php#plaintext" target="_blank">plaintext</a> in the function; be sure to check any login forms for such <a href="../other/glossary.php#clientside" target="_blank">client-side processing</a>.
-</p>
-
-<h4  id="DatabaseVulnerabilities">2.4 Database Vulnerabilities</h4>
-<p>
-Databases on their own do not pose much of a security risk; it is when databases are connected to and used with webpages and web applications that security risks arise. In the above section we looked at a simple SQL statement to retrieve emails from a database: “<b>SELECT userEmails FROM userTable WHERE username = 'jane</b>'”. This statement would work fine for retrieving emails from a database; however, if a user was able to fully control the input to the username field, then a malicious user could retrieve every user's emails. This type of attack is called SQL Injection. For example, if a webpage has a form asking the user to enter his or her name to retrieve his or her emails and does not <a href="../other/glossary.php#sanitize" target="_blank">sanitize</a> the input, then a malicious user could send a malicious command to the database. The malicious user could enter the statement, “<b>jane' OR '1'='1</b>”, in the username field and retrieve every user's emails. The resulting command would look like this: 
+Cơ sở dữ liệu của riêng chúng không gây ra nhiều rủi ro về bảo mật; chính khi cơ sở dữ liệu được kết nối và sử dụng với các trang web và ứng dụng web thì rủi ro bảo mật phát sinh. Trong phần trên, chúng ta đã xem xét một câu lệnh SQL đơn giản để truy xuất email từ cơ sở dữ liệu: “<b>SELECT userEmails FROM userTable WHERE username = 'jane</b>'”. Câu lệnh này sẽ hoạt động tốt khi lấy email từ cơ sở dữ liệu; tuy nhiên, nếu người dùng có thể kiểm soát hoàn toàn dữ liệu nhập vào trường tên người dùng, thì một người dùng độc hại có thể lấy mọi email của người dùng. Kiểu tấn công này được gọi là SQL Injection. Ví dụ, nếu một trang web có biểu mẫu yêu cầu người dùng nhập tên của mình để truy xuất email của họ và không được <a href="../other/glossary.php#sanitize" target="_blank">làm trống</a> đầu vào, sau đó một người dùng độc hại có thể gửi một lệnh độc hại đến cơ sở dữ liệu. Người dùng độc hại có thể nhập vào câu lệnh, “<b>jane' OR '1'='1</b>”, vào trường tên người dùng và truy xuất email của mọi người dùng. Lệnh kết quả sẽ giống như sau: 
 “<b>SELECT userEmails FROM userTable WHERE username = 'jane' OR '1'='1'</b>” 
 </p>
 
 <p>
-Because “<b>'1'='1'</b>” is always true, the “<b>WHERE</b>” statement would always be true, and the database would retrieve every row in the user table. 
+Vì “<b>'1'='1'</b>” là luôn luôn đúng, câu lệnh “<b>WHERE</b>” sẽ luôn luôn đúng, và cơ sở dữ liệu sẽ truy xuất mọi hàng trong bảng người dùng. 
 </p>
 
 <p>
-Also, SQL Injection can be used to bypass login authentication. For example, if a login page uses a database to store user passwords, a SQL command such as “<b>SELECT user FROM userPasswords WHERE password = 'userInput'</b>” could be used to retrieve a user's password if it is in the database. However, much like the example above, a malicious user could enter a password like “<b>x' OR '1'='1'</b>”. Doing so would result in a command like “<b>SELECT password FROM userPasswords WHERE password = 'x' OR '1'='1'</b>" where again, “<b>'1'='1</b>” is always true and would allow the user to log in even though he or she does not know the password.
+Ngoài ra, SQL Injection có thể được sử dụng để bỏ qua xác thực đăng nhập. Ví dụ: nếu một trang đăng nhập sử dụng cơ sở dữ liệu để lưu trữ mật khẩu của người dùng, thì một lệnh SQL chẳng hạn như “<b>SELECT user FROM userPasswords WHERE password = 'userInput'</b>” có thể được sử dụng để truy xuất mật khẩu của người dùng nếu nó nằm trong cơ sở dữ liệu. Tuy nhiên, giống như ví dụ trên, người dùng độc hại có thể nhập mật khẩu như “<b>x' OR '1'='1'</b>”. Làm như vậy sẽ dẫn đến một lệnh như “<b>SELECT password FROM userPasswords WHERE password = 'x' OR '1'='1'</b>" lại một lần nữa, “<b>'1'='1</b>” luôn đúng và cho phép người dùng đăng nhập mặc dù người đó không biết mật khẩu.
 </p>
 
-<h3 id="Summary">3. Summary</h3>
+<h3 id="Summary">3. Tóm tắt</h3>
 <p>
-Since these four elements work together to form a webpage, they must be assessed together, as well as individually. Many webpages have HTML text boxes which allow users to enter text that is then processed by JavaScript and printed back into the HTML or stored in a database. If the user input is not handled properly, a malicious user could enter a carefully crafted input and compromise the security of the web application. A webpage may have an HTML form for user login where the username and password are sent to a database for processing. If the input is not sanitized properly, a malicious user could gain unauthorized access to the application. A cybersecurity analyst should always check input boxes for such vulnerabilities.
+Vì bốn yếu tố này hoạt động cùng nhau để tạo thành một trang web, chúng phải được đánh giá cùng nhau, cũng như riêng lẻ. Nhiều trang web có hộp văn bản HTML cho phép người dùng nhập văn bản sau đó được JavaScript xử lý và in trở lại HTML hoặc được lưu trữ trong cơ sở dữ liệu. Nếu thông tin nhập của người dùng không được xử lý đúng cách, người dùng độc hại có thể nhập thông tin đầu vào được chế tạo cẩn thận và xâm phạm tính bảo mật của ứng dụng web. Một trang web có thể có dạng HTML để đăng nhập người dùng, trong đó tên người dùng và mật khẩu được gửi đến cơ sở dữ liệu để xử lý. Nếu đầu vào không được làm sạch đúng cách, người dùng độc hại có thể truy cập trái phép vào ứng dụng. Một nhà phân tích an ninh mạng nên luôn kiểm tra các hộp đầu vào để tìm các lỗ hổng như vậy.
 </p>
 
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

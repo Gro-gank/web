@@ -5,10 +5,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Web App Exploitation</a></li>
-				  <li class="breadcrumb-item"><a href="index3.php">Challenge 3</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Khai thác ứng dụng Web</a></li>
+				  <li class="breadcrumb-item"><a href="index3.php">Thử thách 3</a></li>
+				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
 
@@ -17,18 +17,18 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 3 Explanation: SQL</h3>
+<h3>Giải thích thử thách 3: SQL</h3>
 
 <p>
-Explanation: When dealing with user input, it is always a good idea to sanitize the input before accepting it. Taking user input and processing it without sanitizing it first can lead to vulnerabilities, such as the SQL injection you just exploited. When creating anything from a login page to a comment box, you should always sanitize user input before processing or storing input. 
+Giải thích: Khi xử lý thông tin đầu vào của người dùng, bạn nên làm sạch thông tin đầu vào trước khi chấp nhận. Việc lấy thông tin đầu vào của người dùng và xử lý mà không làm sạch trước có thể dẫn đến các lỗ hổng, chẳng hạn như SQL injection mà bạn vừa khai thác. Khi tạo bất kỳ thứ gì từ trang đăng nhập đến hộp nhận xét, bạn phải luôn làm sạch thông tin nhập của người dùng trước khi xử lý hoặc lưu trữ thông tin đầu vào.
 </p>
 
 <p>
-Below is a step-by-step guide of how to answer the questions and complete the challenge.
+Dưới đây là hướng dẫn từng bước về cách trả lời các câu hỏi và hoàn thành thử thách.
 </p>
 
 <p>
-Recall the syntax and structure of SQL statements, which we discussed in the lesson: “<b>SELECT row FROM table WHERE column = 'query'</b>”. With this in mind, we can see that this statement, “<b>SELECT password FROM passwordTable _______ password = userInput</b>,” is missing “WHERE.” 
+Nhớ lại cú pháp và cấu trúc của câu lệnh SQL, mà chúng ta đã thảo luận trong bài học: “<b>SELECT row FROM table WHERE column = 'query'</b>”. Với những gì ở đây, chúng ta có thể thấy câu lệnh này “<b>SELECT password FROM passwordTable _______ password = userInput</b>,” đang thiếu “WHERE.” 
 </p>
 
 <div class="screenshot myLightBox my-3">
@@ -36,7 +36,7 @@ Recall the syntax and structure of SQL statements, which we discussed in the les
 </div>
 
 <p>
-Again, we must remember what we learned in the lesson; for the SQL statement to return true, we either need the admin's password, which we don't know, or we need to input something else as the password that will make the SQL statement true. In the lesson we discussed a “<b>x' OR '1'='1</b>” statement that always returns true. We can enter this statement as the password and the login form will return true, even though we do not know the admin's password. When we click “Sign In,” we are presented with the flag.
+Một lần nữa, chúng ta phải nhớ những gì chúng ta đã học trong bài học; để câu lệnh SQL trả về true, chúng ta cần mật khẩu của quản trị viên mà chúng ta không biết hoặc chúng ta cần nhập một thứ gì đó khác làm mật khẩu sẽ làm cho câu lệnh SQL đúng. Trong bài học, chúng ta đã thảo luận về câu lệnh “<b>x' OR '1'='1</b>” nó luôn luôn trả về true. Chúng tôi có thể nhập câu lệnh này làm mật khẩu và biểu mẫu đăng nhập sẽ trả về true, mặc dù chúng ta không biết mật khẩu của quản trị viên. Khi chúng ta nhấp vào “Đăng nhập”, chúng ta sẽ thấy lá cờ.
 </p>
 
 
@@ -47,7 +47,7 @@ Again, we must remember what we learned in the lesson; for the SQL statement to 
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 
