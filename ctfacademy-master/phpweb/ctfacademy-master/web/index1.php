@@ -58,7 +58,7 @@
 
 
         <p>
-            <b>câu hỏi 2:</b> Trang web này được viết vào tháng mấy trong năm?
+            <b>Câu hỏi 2:</b> Trang web này được viết vào tháng mấy trong năm?
         </p>
 
         <!-- Q2 input form -->

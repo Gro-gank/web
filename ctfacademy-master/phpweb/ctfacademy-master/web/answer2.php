@@ -8,7 +8,7 @@
 				<ol class="breadcrumb">
 				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
 				  <li class="breadcrumb-item"><a href="index1.php">Khai thác ứng dụng Web</a></li>
-				  <li class="breadcrumb-item"><a href="index2.php">Thử thách 2 2</a></li>
+				  <li class="breadcrumb-item"><a href="index2.php">Thử thách 2</a></li>
 				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
