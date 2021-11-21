@@ -9,9 +9,9 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index2.php">Open Source Intelligence</a></li>
-				  <li class="breadcrumb-item active">Challenge 2</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index2.php">Trí tuệ mã nguồn mở</a></li>
+				  <li class="breadcrumb-item active">Thử thách 2</li>
 				</ol>				
 
 
@@ -20,10 +20,10 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 2: Cross Reference</h3>
+<h3>Thử thách 2: Cross Reference</h3>
 
 <p>
-Below is a list of know malicious IP addresses gather through OSINT. Can you use this list to identify the malicious IPs in the web server log?
+Dưới đây là danh sách các địa chỉ IP độc hại được biết được thu thập thông qua OSINT. Bạn có thể sử dụng danh sách này để xác định các IP độc hại trong nhật ký máy chủ web không?
 </p>
 
 
@@ -32,7 +32,7 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
  <table class="table table-striped">
   <thead >
     <tr>
-      <th scope="col">Malicious  IP Addresses</th>
+      <th scope="col">Địa chỉ IP độc hại</th>
 
     </tr>
   </thead>
@@ -75,8 +75,9 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
  <table class="table table-striped">
   <thead >
     <tr>
-      <th scope="col">IP Address</th>
-	  <th>Date and Page</th>
+      <th scope="col">
+Địa chỉ IP</th>
+	  <th>Ngày và trang</th>
 
     </tr>
   </thead>
@@ -231,13 +232,13 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 
 
 <p>
-<b>Question 1:</b> What is the first malicious IP address in this log?
+<b>Câu hỏi 1:</b> Địa chỉ IP độc hại đầu tiên trong nhật ký này là gì?
 </p>
 <!-- Q1 input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 1</p>	
+    <p class="h4">Câu hỏi 1</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -246,7 +247,7 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Submit</button>
+    <button onclick="q1()" class="btn btn-mybutton btn-block mb-2" id = "submit1" type="button">Nộp</button>
 
     </div>
 </form>
@@ -256,14 +257,14 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 
 
 <p>
-<b>Question 2:</b> What is the second malicious IP in this log?
+<b>Câu hỏi 2:</b> IP độc hại thứ hai trong nhật ký này là gì?
 </p>
 
 <!-- Q2 input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 2</p>	
+    <p class="h4">Câu hỏi 2</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -272,7 +273,7 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="q2()" class="btn btn-mybutton btn-block mb-2" id = "submit2" type="button">Submit</button>
+    <button onclick="q2()" class="btn btn-mybutton btn-block mb-2" id = "submit2" type="button">Nộp</button>
 
     </div>
 </form>
@@ -280,14 +281,14 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 <!-- Flag form End -->
 
 <p>
-<b>Question 3:</b> What malicious IP appeared the most in this log?
+<b>Câu hỏi 3:</b> IP độc hại nào xuất hiện nhiều nhất trong nhật ký này?
 </p>
 
 <!-- Q3 input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 3</p>	
+    <p class="h4">Câu hỏi 3</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -296,7 +297,7 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="q3()" class="btn btn-mybutton btn-block mb-2" id = "submit3" type="button">Submit</button>
+    <button onclick="q3()" class="btn btn-mybutton btn-block mb-2" id = "submit3" type="button">Nộp</button>
 
     </div>
 </form>
@@ -305,14 +306,14 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 
 
 <p>
-<b>Question 4:</b> How many times did the answer to Question 3 appear in the log?
+<b>Câu hỏi  4:</b> Câu trả lời cho Câu hỏi 3 đã xuất hiện bao nhiêu lần trong nhật ký?
 </p>
 
 <!-- Flag input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Question 4</p>	
+    <p class="h4">Câu hỏi  4</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -321,7 +322,7 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Submit</button>
+    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Nộp</button>
 
     </div>
 </form>
@@ -331,7 +332,7 @@ Below is a list of know malicious IP addresses gather through OSINT. Can you use
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

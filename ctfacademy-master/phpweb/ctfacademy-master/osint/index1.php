@@ -9,9 +9,9 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="../index.php">Open Source Intelligence</a></li>
-				  <li class="breadcrumb-item active">Challenge 1</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trí tuệ mã nguồn mở</a></li>
+				  <li class="breadcrumb-item active">Thử thách 1</li>
 				</ol>				
 
 
@@ -19,11 +19,11 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="../../other/enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3>Challenge 1: Attention to Details</h3>
+<h3>Thử thách 1: Chú yến đến tiểu tiết</h3>
 
 <p>
-Below is a screenshot from a recent interview with the Company CEO. We believe that the CEO’s email and password are located somewhere in the picture. Find his sign-in credentials and try to log in. <a href="challenge1/challenge1.jpg" target="_blank">
-Left-click to open the image in a new tab to maginify it.
+Dưới đây là ảnh chụp màn hình từ cuộc phỏng vấn gần đây với Giám đốc điều hành Công ty. Chúng tôi tin rằng email và mật khẩu của CEO nằm ở đâu đó trong hình. Tìm thông tin xác thực đăng nhập của anh ấy và cố gắng đăng nhập. <a href="challenge1/challenge1.jpg" target="_blank">
+Nhấn chuột phải vào đây để mở hình ảnh trong một tab mới để xác mình hóa hình ảnh đó.
 </a>
 </p>
 
@@ -36,7 +36,7 @@ Left-click to open the image in a new tab to maginify it.
 <form class="text-center">
 <div class = "mySignIn p-2">
 	
-    <p class="h4">Sign in</p>
+    <p class="h4">Đăng nhập</p>
 	
 </div>
 	
@@ -45,11 +45,11 @@ Left-click to open the image in a new tab to maginify it.
 <div class="mb-3"> 
     <input type="text" id="username" class="form-control mb-3" placeholder="Email" required>
 	
-    <input type="password" id="password" class="form-control mb-1" placeholder="Password" required>
+    <input type="password" id="password" class="form-control mb-1" placeholder="Mật khẩu" required>
 	
 	<span id="loginFeedback"></span>
 </div>
-    <button onclick="buttonFunction()" class="btn btn-mybutton btn-block mb-2" id = "signin" type="button">Sign in</button>
+    <button onclick="buttonFunction()" class="btn btn-mybutton btn-block mb-2" id = "signin" type="button">Đăng nhập</button>
 </div>
 </form>
 </div>
@@ -63,14 +63,14 @@ Left-click to open the image in a new tab to maginify it.
 
 
 <p>
-<b>Challenge 1:</b> Find the flag and input the answer.
+<b>Thử thách 1:</b> Tìm lá cờ và nhập câu trả lời.
 </p>
 
 <!-- Flag input form -->
 <div class = "mySignInBox myLightBox my-4">
 <form class="text-center" novalidate>
 <div class = "mySignIn p-2">
-    <p class="h4">Input Flag</p>	
+    <p class="h4">Nhập cờ</p>	
 </div>	
 <div class = "mySignInFields p-4">	
 	<div class="mb-3">    
@@ -79,7 +79,7 @@ Left-click to open the image in a new tab to maginify it.
 	</div>
 	
     <!-- Submit button -->
-    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Submit</button>
+    <button onclick="myFlag()" class="btn btn-mybutton btn-block mb-2" id = "submit" type="button">Nộp</button>
 
     </div>
 </form>
@@ -89,7 +89,7 @@ Left-click to open the image in a new tab to maginify it.
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

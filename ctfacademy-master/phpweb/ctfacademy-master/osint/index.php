@@ -5,8 +5,8 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item active">Open Source Intelligence</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item active">Trí tuệ mã nguồn mở</li>
 				</ol>				
 
 
@@ -14,25 +14,24 @@
 				Please enable JavaScript on your web browser. For a tutorial, <a href="../other/enable_javascript.php">click here</a>.				
 				</noscript>
 
-<h3 id="OpenSourceIntelligence">1. Open Source Intelligence</h3>
+<h3 id="OpenSourceIntelligence">1. Trí tuệ mã nguồn mở</h3>
 
 
 <p>
-Open source intelligence, also known as OSINT, refers to the gathering of information from publicly available sources, such as social media, company websites, and news articles. There is a great deal of information that can be gathered about a company or person through open source intelligence.
-</p>
+Trí tuệ mã nguồn mở, còn được biết đến là OSINT, đề cập đến việc thu thập thông tin từ các nguồn có sẵn công khai, chẳng hạn như phương tiện truyền thông xã hội, trang web của công ty và các bài báo. Có rất nhiều thông tin có thể được thu thập về một công ty hoặc một người thông qua trí thông minh nguồn mở.</p>
 
-<h4 id="OSINTTechniques">1.1 OSINT Techniques</h4> 
+<h4 id="OSINTTechniques">1.1 Kỹ thuật OSINT</h4> 
 
 
 
 <p>
-In a cybersecurity context, OSINT can be used to recon a target before performing a <a href="../other/glossary.php#penetrationtest" target="_blank">penetration test</a> or to generate a report of the information a company is leaking through public sources. Cyber criminals use OSINT to collect information on a target before attacking; also, OSINT can be used to help guess a user’s password. Many people use passwords that relate to themselves. For example, a common password creation method is to use the name of your favorite pet followed by the year you were born. This is a very poor password creation technique because this information is easy for a <a href="../other/glossary.php#malicious " target="_blank">malicious</a> user to obtain from openly available sources, such as your social media accounts. In addition to possible password information, OSINT can reveal information about a company’s internal computer network. For example, a company’s promotional website may include pictures of employees working. These pictures may reveal information about the company’s innerworkings, such as internal website URLs and private documents. OSINT can also be used to create a phony, malicious email targeting a company or individual; these phony emails are referred to as “phishing” emails.
+Trong bối cảnh an ninh mạng, OSINT có thể được sử dụng để xác định lại mục tiêu trước khi thực hiện việc <a href="../other/glossary.php#penetrationtest" target="_blank">kiểm tra thâm nhập</a> hoặc để tạo báo cáo về thông tin mà một công ty đang rò rỉ qua các nguồn công khai. Tội phạm mạng sử dụng OSINT để thu thập thông tin về mục tiêu trước khi tấn công; Ngoài ra, OSINT có thể được sử dụng để giúp đoán mật khẩu của người dùng. Nhiều người sử dụng mật khẩu liên quan đến chính họ. Ví dụ, một phương pháp tạo mật khẩu phổ biến là sử dụng tên của con vật cưng yêu thích của bạn theo sau là năm bạn sinh ra. Đây là một kỹ thuật tạo mật khẩu rất kém vì thông tin này rất dễ cho <a href="../other/glossary.php#malicious " target="_blank">người dùng độc hại</a> lấy từ các nguồn công khai có sẵn, chẳng hạn như tài khoản mạng xã hội của bạn. Ngoài thông tin về mật khẩu có thể có, OSINT có thể tiết lộ thông tin về mạng máy tính nội bộ của công ty. Ví dụ, trang web quảng cáo của một công ty có thể bao gồm hình ảnh của các nhân viên đang làm việc. Những hình ảnh này có thể tiết lộ thông tin về hoạt động bên trong của công ty, chẳng hạn như URL trang web nội bộ và tài liệu riêng tư. OSINT cũng có thể được sử dụng để tạo một email giả mạo, độc hại nhắm mục tiêu đến một công ty hoặc cá nhân; những email giả mạo này được gọi là email "lừa đảo".
 </p>
  
 
-<h4 id="OSINTAttackExample">1.2 OSINT Attack Example</h4>
+<h4 id="OSINTAttackExample">1.2 Ví dụ về tấn công OSINT</h4>
 <p>
-The following is an example of a company press release and a phishing email created using information from the press release:
+Sau đây là ví dụ về thông cáo báo chí của công ty và email lừa đảo được tạo bằng cách sử dụng thông tin từ thông cáo báo chí:
 </p>
 
 
@@ -40,17 +39,16 @@ The following is an example of a company press release and a phishing email crea
 
 <div class = "mySignIn p-2 text-center">
 	
-    <p class="h4">Company XYZ</p>
+    <p class="h4">Công ty XYZ</p>
 	
 </div>
 
 <div class="p-3">
 <p>
-Recently Company XYZ has been making astounding progress on a new project. We have been working with many of the finest software engineers to develop a new internet browser with voice control capabilities. A special thanks goes out to John Smith from Software ABC Corp. for his assistance with this project (more information can be found at softwareabccorp.com). The expected release date is early 2021.
-</p>
+Gần đây Công ty XYZ đã đạt được tiến bộ đáng kinh ngạc trong một dự án mới. Chúng tôi đã làm việc với nhiều kỹ sư phần mềm giỏi nhất để phát triển một trình duyệt internet mới với khả năng điều khiển bằng giọng nói. Xin gửi lời cảm ơn đặc biệt tới John Smith từ Software ABC Corp. vì đã hỗ trợ anh ấy cho dự án này (có thể tìm thêm thông tin tại softwareabccorp.com). Ngày phát hành dự kiến ​​là đầu năm 2021.</p>
 
 <p>
-Company XYZ,
+Công ty XYZ,
 <br>
 Speaking is the future!
 </p>
@@ -59,7 +57,7 @@ Speaking is the future!
 
 
 <p>
-Using the information in the above press release, an attacker could form the following phishing email:
+Sử dụng thông tin trong thông cáo báo chí ở trên, kẻ tấn công có thể tạo email lừa đảo sau:
 </p>
 
 <div class="myLightBox Email my-3">
@@ -81,22 +79,22 @@ From: jsmith@softwareabccorp.co
 </p>
 
 <p>
-Subject: New Research About Voice Control
+Chủ đề: Nghiên cứu mới về điều khiển bằng giọng nói
 </p>
 </div>
 
 <div class="p-3">
 
 <p>
-Dear Company XYZ CEO,
+Kính gửi Giám đốc điều hành Công ty XYZ,
 </p>
 
 <p>
-Here is a link to my new research paper about voice control technologies: Softwarecorp.co/newpaper.pdf.
+Đây là liên kết đến bài nghiên cứu mới của tôi về công nghệ điều khiển bằng giọng nói: Softwarecorp.co/newpaper.pdf.
 </p>
 
 <p>
-Due to our recent collaboration on your new internet browser, I know this paper will interest you greatly. Please read it and give me your thoughts.
+Do sự hợp tác gần đây của chúng tôi trên trình duyệt internet mới của bạn, tôi biết rằng bài báo này sẽ khiến bạn quan tâm rất nhiều. Hãy đọc nó và cho tôi biết suy nghĩ của bạn.
 </p>
 
 <p>
@@ -104,7 +102,7 @@ Due to our recent collaboration on your new internet browser, I know this paper 
 </p>
 
 <p>
-Thank you,
+Cảm ơn bạn,
 <br>
 John Smith
 <br>
@@ -114,31 +112,31 @@ Software ABC Corp.
 </div>
 
 <p>
-The attacker would send the above email to the CEO in hopes she would click on the link and unknowingly download the attacker’s malicious file containing a computer virus. 
+Kẻ tấn công sẽ gửi email trên cho CEO với hy vọng bà sẽ nhấp vào liên kết và vô tình tải xuống tệp độc hại của kẻ tấn công có chứa vi-rút máy tính.
 </p>
 
 
 <p>
-The attacker created this email using information gleamed from Company XYZ’s press release. The attacker registered a website and email at “softwareabccorp.co,” notice the “.co” instead of the “.com” at the end of the address. Also, the name of the researcher connected to the project, John Smith, was mention in the press release and was used by the attacker to add believability to his phishing email. Finally, the attacker’s link to a supposed “research paper” that would be of interest to the targeted CEO. In a malicious phishing email, this link would lead to a computer virus and infect the CEO’s computer. 
+Kẻ tấn công đã tạo email này bằng cách sử dụng thông tin thu thập được từ thông cáo báo chí của Công ty XYZ. Kẻ tấn công đã đăng ký một trang web và email tại “softwareabccorp.co”, lưu ý “.co” thay vì “.com” ở cuối địa chỉ. Ngoài ra, tên của nhà nghiên cứu có liên quan đến dự án, John Smith, đã được đề cập trong thông cáo báo chí và được kẻ tấn công sử dụng để tăng thêm độ tin cậy cho email lừa đảo của anh ta. Cuối cùng, liên kết của kẻ tấn công tới một "tài liệu nghiên cứu" được cho cho rằng sẽ là mục tiêu được CEO quan tâm. Trong một email lừa đảo độc hại, liên kết này sẽ dẫn đến vi-rút máy tính và lây nhiễm vào máy tính của CEO.
 </p>
 
  
-<h3 id="OSINTDefensiveTechniques">2. OSINT Defensive Techniques</h3>
+<h3 id="OSINTDefensiveTechniques">2. Kỹ thuật Phòng thủ OSINT</h3>
 
 <p>
-OSINT can also be used in a defensive manner. Open source intel can be used to keep up with cybersecurity trends and the techniques cyber criminals are using right now. There are many websites that provide OSINT about cyber attack trends reported by cybersecurity professionals. Also, when a company is receiving unusual internet traffic, OSINT can be used to determine if the usual traffic is coming from a known malicious IP address (An IP address is a four part number that identifies the source of a network connect).
+OSINT cũng có thể được sử dụng theo cách phòng thủ. Thông tin mã nguồn mở có thể được sử dụng để bắt kịp các xu hướng an ninh mạng và các kỹ thuật mà bọn tội phạm mạng đang sử dụng ngay bây giờ. Có rất nhiều trang web cung cấp OSINT về các xu hướng tấn công mạng do các chuyên gia an ninh mạng báo cáo. Ngoài ra, khi một công ty nhận được lưu lượng truy cập internet bất thường, OSINT có thể được sử dụng để xác định xem lưu lượng truy cập thông thường có phải đến từ một địa chỉ IP độc hại đã biết hay không (Địa chỉ IP là bốn phần số xác định nguồn của kết nối mạng).
 </p>
 
 <p>
-The following are just a few of the thousands of IP addresses that originate from China:
+Sau đây chỉ là một vài trong số hàng nghìn địa chỉ IP có nguồn gốc từ Trung Quốc:
 </p>
 
 <p>
-Using information from public sources about IP address origins, a cyber defender can better analyze unusual internet traffic. 
+Sử dụng thông tin từ các nguồn công khai về nguồn gốc địa chỉ IP, người bảo vệ mạng có thể phân tích tốt hơn lưu lượng truy cập internet bất thường.
 </p>
 
 <p>
-For example, if the network administrator at an organization notices a high volume of internet traffic causing the organization’s website to be overloaded, he can analyze the origins of the internet traffic and determine if the traffic is likely malicious. By using OSINT to research the IP addresses of the internet traffic, a cybersecurity specialist can determine if the traffic is originating from known malicious IP addresses.
+Ví dụ: nếu quản trị viên mạng của một tổ chức nhận thấy một lượng lớn lưu lượng truy cập internet khiến trang web của tổ chức đó bị quá tải, anh ta có thể phân tích nguồn gốc của lưu lượng truy cập internet và xác định xem lưu lượng truy cập đó có nguy hiểm không. Bằng cách sử dụng OSINT để nghiên cứu địa chỉ IP của lưu lượng truy cập internet, một chuyên gia an ninh mạng có thể xác định xem lưu lượng truy cập có bắt nguồn từ các địa chỉ IP độc hại đã biết hay không.
 </p>
 
 <div class="table-responsive ">
@@ -146,7 +144,7 @@ For example, if the network administrator at an organization notices a high volu
  <table class="table table-striped">
   <thead >
     <tr>
-      <th scope="col">Chinese IP Addresses</th>
+      <th scope="col">Địa chỉ IP Trung Quốc</th>
 
     </tr>
   </thead>
@@ -169,16 +167,16 @@ For example, if the network administrator at an organization notices a high volu
 </div>
 
 <p>
-Using information from public sources about IP address origins, a cyber defender can better analyze unusual internet traffic. 
+Sử dụng thông tin từ các nguồn công khai về nguồn gốc địa chỉ IP, người bảo vệ mạng có thể phân tích tốt hơn lưu lượng truy cập internet bất thường.
 </p>
 
 <p>
-For example, if the network administrator at an organization notices a high volume of internet traffic causing the organization’s website to be overloaded, he can analyze the origins of the internet traffic and determine if the traffic is likely malicious. By using OSINT to research the IP addresses of the internet traffic, a cybersecurity specialist can determine if the traffic is originating from known malicious IP addresses.
+Ví dụ: nếu quản trị viên mạng của một tổ chức nhận thấy một lượng lớn lưu lượng truy cập internet khiến trang web của tổ chức đó bị quá tải, anh ta có thể phân tích nguồn gốc của lưu lượng truy cập internet và xác định xem lưu lượng truy cập đó có nguy hiểm không. Bằng cách sử dụng OSINT để nghiên cứu địa chỉ IP của lưu lượng truy cập internet, một chuyên gia an ninh mạng có thể xác định xem lưu lượng truy cập có bắt nguồn từ các địa chỉ IP độc hại đã biết hay không.
 </p>
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

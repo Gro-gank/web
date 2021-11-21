@@ -6,10 +6,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Open Source Intelligence</a></li>
-				  <li class="breadcrumb-item"><a href="index2.php">Challenge 2</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Trí tuệ mã nguồn mở</a></li>
+				  <li class="breadcrumb-item"><a href="index2.php">Thử thách 2</a></li>
+				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
 
@@ -18,31 +18,31 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 2 Explanation: Cross Reference</h3>
+<h3>Giải thích thử thách 2: Cross Reference</h3>
 
 <p>
-Being able to translate data gathered through OSINT into actionable information is a very important skill in cybersecurity. Often OSINT reveals new tactics and techniques that malicious users might employ; therefore, taking information gathered using OSINT and translating that information into a real-world defensive plan is very valuable.  
+Có thể dịch dữ liệu thu thập được thông qua OSINT thành thông tin có thể hành động là một kỹ năng rất quan trọng trong an ninh mạng. Thông thường OSINT tiết lộ các chiến thuật và kỹ thuật mới mà người dùng độc hại có thể sử dụng; do đó, việc lấy thông tin thu thập được bằng OSINT và chuyển thông tin đó thành một kế hoạch phòng thủ trong thế giới thực là rất có giá trị.
 </p>
 
 <p>
-To answer the questions for this challenge, you must cross reference the provided OSINT data about malicious IP addresses with the IP addresses in the log file.
+Để trả lời các câu hỏi cho thử thách này, bạn phải tham chiếu chéo dữ liệu OSINT được cung cấp về địa chỉ IP độc hại với địa chỉ IP trong tệp nhật ký.
 </p>
 
 
 <p>
-Question 1 asks you to identify the first malicious IP address that accessed the web server. To answer this question, compare the IPs found in the access log and to the malicious IPs in the provided list. In this case, the answer is “36.37.39.204”.
+Câu hỏi 1 yêu cầu bạn xác định địa chỉ IP độc hại đầu tiên đã truy cập vào máy chủ web. Để trả lời câu hỏi này, hãy so sánh các IP được tìm thấy trong nhật ký truy cập và các IP độc hại trong danh sách được cung cấp. Trong trường hợp này, câu trả lời là “36.37.39.204”.
 </p>
 
 <p>
-Question 2 is answered in much the same way. Simply identify the second malicious IP in the log, “178.34.15.6”.
+Câu hỏi 2 được trả lời theo cùng một cách. Chỉ cần xác định IP độc hại thứ hai trong nhật ký, “178.34.15.6”.
 </p>
 
 <p>
-For questions 3 and 4, count the number of times each malicious IP appears and determine which one appears the most. The answer is “36.37.39.204”, which appears 5 times in the log.
+Đối với câu hỏi 3 và 4, hãy đếm số lần mỗi IP độc hại xuất hiện và xác định IP nào xuất hiện nhiều nhất. Câu trả lời là “36.37.39.204”, xuất hiện 5 lần trong nhật ký.
 </p>
 
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 

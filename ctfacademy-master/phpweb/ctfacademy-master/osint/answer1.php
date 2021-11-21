@@ -5,10 +5,10 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-				  <li class="breadcrumb-item"><a href="index.php">Open Source Intelligence</a></li>
-				  <li class="breadcrumb-item"><a href="index1.php">Challenge 1</a></li>
-				  <li class="breadcrumb-item active">Explanation</li>
+				  <li class="breadcrumb-item"><a href="../index.php">Trang chủ</a></li>
+				  <li class="breadcrumb-item"><a href="index.php">Trí tuệ mã nguồn mở</a></li>
+				  <li class="breadcrumb-item"><a href="index1.php">Thử thách 1</a></li>
+				  <li class="breadcrumb-item active">Giải thích</li>
 				</ol>				
 
 
@@ -17,14 +17,14 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Challenge 1 Explanation: Attention to Details</h3>
+<h3>Giải thích thử thách 1: Chú yến đến tiểu tiết</h3>
 
 <p>
-As an OSINT analyst, it is important to notice details in openly available information. There have been many reports of real companies and governments being impacted by leaking confidential information through publicly available sources. In this challenge, you were tasked with finding account information about a CEO by analyzing a screenshot from a recent interview.
+Là một nhà phân tích OSINT, điều quan trọng là phải chú ý đến các chi tiết trong thông tin có sẵn công khai. Đã có nhiều báo cáo về việc các công ty và chính phủ thực sự bị ảnh hưởng bởi việc rò rỉ thông tin bí mật thông qua các nguồn công khai. Trong thử thách này, bạn được giao nhiệm vụ tìm kiếm thông tin tài khoản về một CEO bằng cách phân tích ảnh chụp màn hình từ một cuộc phỏng vấn gần đây.
 </p>
 
 <p>
-To the left of the CEO's head in the middle part of the image, you can see a sticky-note with account information. Below is a zoomed-in picture of the account information.
+Ở bên trái đầu của CEO ở phần giữa của hình ảnh, bạn có thể thấy một tờ giấy ghi thông tin tài khoản. Dưới đây là hình ảnh phóng to của thông tin tài khoản.
 </p>
 
 
@@ -34,7 +34,7 @@ To the left of the CEO's head in the middle part of the image, you can see a sti
 
 			
 			<div id="backToTop" class="my-3">
-<a href="#top">Back to Top</a>
+<a href="#top">Về đầu trang</a>
 <!-- Takes user to top of home page -->								
 </div>
 
