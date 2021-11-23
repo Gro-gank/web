@@ -40,7 +40,7 @@
 						<h2 class="display-4">
 							<span class="mainblue">
 								<a href="../index.php">
-									ACT CTF Academys
+									ACT CTF Academy
 								</a>
 							</span>
 							<!-- <br class="break">						
