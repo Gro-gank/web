@@ -4,7 +4,7 @@
 				<div id="main">
 				
 				<ol class="breadcrumb">
-				  <li class="breadcrumb-item active">Trang chủ</li>
+				  <li class="breadcrumb-item active"><b>Trang chủ</b></li>
 				  
 				</ol>				
 
