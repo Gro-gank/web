@@ -13,7 +13,7 @@ function myFlag (){
 	if (flagCheck == true) {
 		
 		
-		$("#flagFeedback").html("Good job! <a href='answer3.php'>Click here for the explaination.</a>");
+		$("#flagFeedback").html("Tốt lắm! <a href='answer3.php'>Nhấn vào đây để xem giải thích.</a>");
 		
 		$("#flagFeedback").css("color", "#28a745");
 		
@@ -30,7 +30,7 @@ function myFlag (){
 	}
 	else {
 		
-		$("#flagFeedback").html("Sorry, try again.");
+		$("#flagFeedback").html("Sai rồi, hãy thử lại.");
 		
 		$("#flagFeedback").css("color", "#dc3545");
 		

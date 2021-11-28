@@ -33,7 +33,7 @@ if (username == myUser && myPassword == myPass) {
 			
 
 				
-				$("#loginFeedback").html("Great job! The flag is below.");
+				$("#loginFeedback").html("Làm tốt lắm! Cờ cần tìm ở dưới đây.");
 				
 				$("#loginFeedback").css("color", "#28a745");
 				
@@ -63,7 +63,7 @@ if (username == myUser && myPassword == myPass) {
 else {
 	
 	
-	$("#loginFeedback").html("Incorrect username/password. Try again.");
+	$("#loginFeedback").html("Sai thông tin Username/Password. Hãy thử lại.");
 	
 	
 		
@@ -99,7 +99,7 @@ function q1 (){
 	if (flagCheck == true) {
 		
 		
-		$("#flagFeedback1").html("Good job! Try the next question.");
+		$("#flagFeedback1").html("Làm tốt lắm! Hãy đến với câu hỏi tiếp theo.");
 		
 		$("#flagFeedback1").css("color", "#28a745");
 		
@@ -114,7 +114,7 @@ function q1 (){
 	}
 	else {
 		
-		$("#flagFeedback1").html("Sorry, try again.");
+		$("#flagFeedback1").html("Sai rồi, hãy thử lại.");
 		
 		$("#flagFeedback1").css("color", "#dc3545");
 		
@@ -143,7 +143,7 @@ function q2 (){
 	if (flagCheck == true) {
 		
 		
-		$("#flagFeedback2").html("Good job! Try the next question.");
+		$("#flagFeedback2").html("Làm tốt lắm! Hãy đến với câu hỏi tiếp theo.");
 		
 		$("#flagFeedback2").css("color", "#28a745");
 		
@@ -158,7 +158,7 @@ function q2 (){
 	}
 	else {
 		
-		$("#flagFeedback2").html("Sorry, try again.");
+		$("#flagFeedback2").html("Sai rồi, hãy thử lại.");
 		
 		$("#flagFeedback2").css("color", "#dc3545");
 		
@@ -188,7 +188,7 @@ function myFlag (){
 	if (flagCheck == true) {
 		
 		
-		$("#flagFeedback").html("Good job! <a href='answer1.php'>Click here for the explaination.</a>");
+		$("#flagFeedback").html("Tốt lắm! <a href='answer1.php'>Nhấn vào đây để xem giải thích</a>");
 		
 		$("#flagFeedback").css("color", "#28a745");
 		
@@ -205,7 +205,7 @@ function myFlag (){
 	}
 	else {
 		
-		$("#flagFeedback").html("Sorry, try again.");
+		$("#flagFeedback").html("Sai rồi, hãy thử lại.");
 		
 		$("#flagFeedback").css("color", "#dc3545");
 		

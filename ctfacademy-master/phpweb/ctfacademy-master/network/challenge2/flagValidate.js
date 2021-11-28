@@ -10,7 +10,7 @@ function q1 (){
 	if (flagCheck == true) {
 		
 		
-		$("#flagFeedback1").html("Good job! Try the next question.");
+		$("#flagFeedback1").html("Làm tốt lắm! Hãy đến với câu hỏi tiếp theo.");
 		
 		$("#flagFeedback1").css("color", "#28a745");
 		
@@ -25,7 +25,7 @@ function q1 (){
 	}
 	else {
 		
-		$("#flagFeedback1").html("Sorry, try again.");
+		$("#flagFeedback1").html("Sai rồi, hãy thử lại.");
 		
 		$("#flagFeedback1").css("color", "#dc3545");
 		
@@ -55,7 +55,7 @@ function myFlag (){
 	if (flagCheck == true) {
 		
 		
-		$("#flagFeedback").html("Good job! <a href='answer2.php'>Click here for the explaination.</a>");
+		$("#flagFeedback").html("Tốt lắm! <a href='answer2.php'>Nhấn vào đây để xem giải thích.</a>");
 		
 		$("#flagFeedback").css("color", "#28a745");
 		
@@ -72,7 +72,7 @@ function myFlag (){
 	}
 	else {
 		
-		$("#flagFeedback").html("Sorry, try again.");
+		$("#flagFeedback").html("Sai rồi, hãy thử lại.");
 		
 		$("#flagFeedback").css("color", "#dc3545");
 		
