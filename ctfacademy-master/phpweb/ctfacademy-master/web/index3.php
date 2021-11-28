@@ -55,7 +55,7 @@
 </div>
 </form>
 </div>
-
+<!-- js không hoạt động :~ -->
 <!-- Challenge Content Ends here -->
 
 <div id="flagDiv">
