@@ -40,9 +40,9 @@
 	  <div class="col-md-4 order-3 order-md-3 rightInfo">
 	<div class="infoLinks">
 <a href="about_us.php" >Về chúng tôi</a> 
-  <a href="about_us.php#jacob">Cổ Ngọc Minh Huy</a>   
-	<a href="about_us.php#james">Phạm Đăng Thắng</a> 
-	<a href="about_us.php#john">Phạm Ngọc Luân</a> 
+  <a href="about_us.php#Huy">Cổ Ngọc Minh Huy</a>   
+	<a href="about_us.php#Thang">Phạm Đăng Thắng</a> 
+	<a href="about_us.php#Luan">Phạm Ngọc Luân</a> 
 	</div>	
 	</div>	
 	</div>	  

@@ -22,11 +22,11 @@
 Gặp gỡ các thành viên của nhóm ACT CTF.
 </p>
 
-<p id="jacob">
+<p id="Huy">
 <b>Cổ Ngọc Minh Huy</b> MSSV: AT150721 </p>
-<p id="james">
+<p id="Thang">
 <b>Phạm Đăng Thắng</b> MSSV: AT150745</p>
-<p id="john">
+<p id="Luan">
 <b>Phạm Ngọc Luân</b> MSSV: AT141031</p>
 
 <b>Học viện Kỹ Thuật Mật Mã</b>
