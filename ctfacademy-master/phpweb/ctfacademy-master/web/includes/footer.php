@@ -14,22 +14,22 @@
 	</div>
 	</div>
   <!-- Footer Column 2 -->
-      <div class="col-md-4 py-4 order-1 order-md-2">
+  <div class="col-md-4 py-4 order-1 order-md-2">
         <div class="flex-center socialButtons">
           <!-- Email -->		  
-		  <a href="mailto:cybertrainingforceacademy@gmail.com">		  
+		  <a href="mailto:contact@actvn.edu.vn" >		  
 		  <i class="fa fa-envelope fa-3x" aria-hidden="true"></i>
 		  </a>		  
 		<!-- Facebook -->
-			<a href="https://www.facebook.com/hocvienkythuatmatma" target="_blank">
+			<a href="https://www.facebook.com/hocvienkythuatmatma/" target="_blank">
 		  <i class="fa fa-facebook fa-3x" aria-hidden="true"></i>
 		  </a>
-          <!-- Twitter -->
+          <!-- Twitter
           <a href="https://twitter.com/CTFAcademy" target="_blank">
             <i class="fa fa-twitter fa-3x" aria-hidden="true"></i>
-          </a>
+          </a> -->
 		  <!-- YouTube-->
-          <a href="https://www.youtube.com/channel/UC2YnTDWba8lqC-x77h8id8w" target="_blank">
+          <a href="https://www.youtube.com/channel/UCXy1Pqmu4v_5DTfL8pIVfkw/about" target="_blank">
             <i class="fa fa-youtube-play fa-3x" aria-hidden="true"></i>
           </a>         
         </div>
