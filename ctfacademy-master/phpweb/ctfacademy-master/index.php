@@ -31,7 +31,7 @@
 
 	<div class="container my-3">
 	<div class="embed-responsive embed-responsive-16by9">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CkFyQmXL0bA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uw_hkjxoCpk" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	  
 	  </iframe>
 	</div>
@@ -115,7 +115,7 @@ Cảm ơn bạn đã tham gia CTF Academy	!
 
 
 <p>
-Tại sao bạn nên chọn một nghề nghiệp trong an ninh mạng.
+Chúng tôi có gì ?
 </p>
 
 
@@ -135,17 +135,11 @@ Tại sao bạn nên chọn một nghề nghiệp trong an ninh mạng.
 
 <div class="container my-3">
 	<div class="embed-responsive embed-responsive-16by9">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/muOReBVc6AY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PzKJokp9Lao" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	  
 	  </iframe>
 	</div>
 	</div>
-
-
-	
-	
-
-
 			
 			<div id="backToTop" class="my-3">
 <a href="#top">Về đầu trang</a>
