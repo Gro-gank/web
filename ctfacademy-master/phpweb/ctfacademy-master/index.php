@@ -94,7 +94,7 @@
 <!-- Flag form End -->
 
 <p>
-CTFA được thiết kế để chạy hoàn toàn trên hệ thống máy tính cục bộ của bạn mà không cần kết nối internet. Chương trình giảng dạy sử dụng các công nghệ trang web địa phương để tạo ra trải nghiệm học tập tương tác. Nếu bạn muốn sử dụng Học viện CTF trong môi trường ngoại tuyến, <a href="https://github.com/ctfacademy/ctfacademy.github.io/archive/ctfacademy.zip">hãy nhấp chuột phải để tải xuống tệp zip Học viện ACT CTF</a> hoặc <a href="https://github.com/ctfacademy/ctfacademy.github.io" target="_blank">nhấp vào đây để truy cập trang GitHub</a>.
+CTFA được thiết kế để chạy hoàn toàn trên hệ thống máy tính cục bộ của bạn mà không cần kết nối internet. Chương trình giảng dạy sử dụng các công nghệ trang web địa phương để tạo ra trải nghiệm học tập tương tác. Nếu bạn muốn sử dụng Học viện CTF trong môi trường ngoại tuyến, <a href="https://github.com/ctfacademy/ctfacademy.github.io/archive/ctfacademy.zip">hãy nhấp chuột phải để tải xuống tệp zip Học viện ACT CTF</a> hoặc <a href="https://github.com/Gro-gank/web/tree/main/ctfacademy-master/phpweb/ctfacademy-master" target="_blank">nhấp vào đây để truy cập trang GitHub</a>.
 </p>
 
 <p>
