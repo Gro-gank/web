@@ -53,7 +53,7 @@ Opera:
 <ol>
 <li>Nhấp vào biểu tượng Opera ở trên cùng bên trái của trình duyệt web Opera</li>
 <li>Chọn setting </li>
-<li>Nhấp và<object data="" type=""></object> Advanced</li>
+<li>Nhấp vào Advanced</li>
 <li>Chọn Privacy and security</li>
 <li>Chọn content settings</li>
 <li>Đảm bảo JavaScript hiển thị là Allowed. Nếu không, hãy nhấp vào và thay đổi thành Allowed </li>
