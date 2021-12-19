@@ -131,13 +131,13 @@ OSINT cũng có thể được sử dụng theo cách phòng thủ. Thông tin m
 Sau đây chỉ là một vài trong số hàng nghìn địa chỉ IP có nguồn gốc từ Trung Quốc:
 </p>
 
-<p>
+<!-- <p>
 Sử dụng thông tin từ các nguồn công khai về nguồn gốc địa chỉ IP, người bảo vệ mạng có thể phân tích tốt hơn lưu lượng truy cập internet bất thường.
 </p>
 
 <p>
 Ví dụ: nếu quản trị viên mạng của một tổ chức nhận thấy một lượng lớn lưu lượng truy cập internet khiến trang web của tổ chức đó bị quá tải, anh ta có thể phân tích nguồn gốc của lưu lượng truy cập internet và xác định xem lưu lượng truy cập đó có nguy hiểm không. Bằng cách sử dụng OSINT để nghiên cứu địa chỉ IP của lưu lượng truy cập internet, một chuyên gia an ninh mạng có thể xác định xem lưu lượng truy cập có bắt nguồn từ các địa chỉ IP độc hại đã biết hay không.
-</p>
+</p> -->
 
 <div class="table-responsive ">
  
