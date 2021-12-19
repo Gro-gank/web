@@ -17,7 +17,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Giải thích thử thách 3: SQL</h3>
+<h3>Lời giải thử thách 3: SQL</h3>
 
 <p>
 Giải thích: Khi xử lý thông tin đầu vào của người dùng, bạn nên làm sạch thông tin đầu vào trước khi chấp nhận. Việc lấy thông tin đầu vào của người dùng và xử lý mà không làm sạch trước có thể dẫn đến các lỗ hổng, chẳng hạn như SQL injection mà bạn vừa khai thác. Khi tạo bất kỳ thứ gì từ trang đăng nhập đến hộp nhận xét, bạn phải luôn làm sạch thông tin nhập của người dùng trước khi xử lý hoặc lưu trữ thông tin đầu vào.

@@ -18,7 +18,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Giải thích thử thách 1 : Ghi chú</h3>
+<h3>Lời giải thử thách 1 : Ghi chú</h3>
 
 <p>
 Khi phát triển hoặc bảo mật một trang web, bạn phải luôn kiểm tra các comment (ghi chú) trong nguồn HTML do các nhà phát triển để lại. Đôi khi, các ghi chú HTML không gây rủi ro bảo mật, chẳng hạn như các ghi chú biểu thị các phần của trang; tuy nhiên, một số ghi chú, chẳng hạn như những ghi chú về các chức năng của trang web không đầy đủ hoặc không an toàn, có thể ảnh hưởng đến tính bảo mật của trang web. Câu trả lời cho thử thách này có thể được tìm thấy trong các ghi chú trong nguồn trang web của thử thách.</p>

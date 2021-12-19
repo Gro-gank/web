@@ -18,7 +18,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Giải thích thử thách 2: JavaScript</h3>
+<h3>Lời giải thử thách 2: JavaScript</h3>
 
 <p>
 Sử dụng JavaScript cho các trang đăng nhập phía máy khách là một thực tiễn rất không an toàn; làm như vậy có thể dẫn đến việc lộ tên người dùng và mật khẩu. Vì biểu mẫu đăng nhập trong Thử thách 2 được xử lý phía máy khách nên bạn có thể xem mã nguồn và tìm mật khẩu của quản trị viên. Khi xây dựng một ứng dụng web an toàn, bạn phải luôn lưu trữ và xử lý thông tin đăng nhập trên máy chủ web, không phải trên trình duyệt của khách hàng.

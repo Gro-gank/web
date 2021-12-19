@@ -17,7 +17,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Giải thích thử thách 1: Chú yến đến tiểu tiết</h3>
+<h3>Lời giải thử thách 1: Chú yến đến tiểu tiết</h3>
 
 <p>
 Là một nhà phân tích OSINT, điều quan trọng là phải chú ý đến các chi tiết trong thông tin có sẵn công khai. Đã có nhiều báo cáo về việc các công ty và chính phủ thực sự bị ảnh hưởng bởi việc rò rỉ thông tin bí mật thông qua các nguồn công khai. Trong thử thách này, bạn được giao nhiệm vụ tìm kiếm thông tin tài khoản về một CEO bằng cách phân tích ảnh chụp màn hình từ một cuộc phỏng vấn gần đây.

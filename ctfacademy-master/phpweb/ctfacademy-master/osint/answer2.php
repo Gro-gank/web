@@ -18,7 +18,7 @@
 				</noscript>
 
 <!-- Challenge Content Starts here -->
-<h3>Giải thích thử thách 2: Cross Reference</h3>
+<h3>Lời giải thử thách 2: Cross Reference</h3>
 
 <p>
 Có thể dịch dữ liệu thu thập được thông qua OSINT thành thông tin có thể hành động là một kỹ năng rất quan trọng trong an ninh mạng. Thông thường OSINT tiết lộ các chiến thuật và kỹ thuật mới mà người dùng độc hại có thể sử dụng; do đó, việc lấy thông tin thu thập được bằng OSINT và chuyển thông tin đó thành một kế hoạch phòng thủ trong thế giới thực là rất có giá trị.
